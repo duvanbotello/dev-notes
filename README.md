@@ -2,6 +2,8 @@
 
 A bilingual (Spanish-first) knowledge base for personal notes on software engineering books.
 
+- Spanish version: [`README.es.md`](README.es.md)
+
 ## Why this repository exists
 
 This repository exists to turn book notes into a practical engineering handbook:

@@ -1,6 +1,39 @@
 # Dev Notes
 
-Una base de conocimiento bilingue (con espanol como idioma principal) para notas personales de libros de ingenieria de software.
+> Base de conocimiento bilingue (espanol primero) para notas personales sobre libros de ingenieria de software.
+
+[![Idioma principal](https://img.shields.io/badge/Idioma-Espanol-1f6feb)](README.es.md)
+[![Traduccion](https://img.shields.io/badge/Translation-English-0e8a16)](README.md)
+[![Licencia](https://img.shields.io/badge/License-CC--BY--4.0-f9a825)](LICENSE)
+
+## Portada
+
+### Accesos rapidos
+
+- Ir a este archivo (README en espanol): [`README.es.md`](README.es.md)
+- Cambiar a ingles: [`README.md`](README.md)
+- Ver libro de ejemplo (ES): [`books/software-engineering-at-google/README.es.md`](books/software-engineering-at-google/README.es.md)
+- Crear nuevas notas desde plantillas: [`templates/`](templates/)
+
+### Navegacion interactiva
+
+- [Por que existe este repositorio](#por-que-existe-este-repositorio)
+- [Indice de libros](#indice-de-libros)
+- [Como navegar](#como-navegar)
+- [Como usar este repositorio](#como-usar-este-repositorio)
+- [Estructura del repositorio](#estructura-del-repositorio)
+- [Licencia](#licencia)
+- [Aviso legal](#aviso-legal)
+
+<details>
+<summary><strong>Flujo recomendado (abrir/cerrar)</strong></summary>
+
+1. Entra al libro desde el [Indice de libros](#indice-de-libros).
+2. Abre su README para ver la tabla de capitulos.
+3. En cada capitulo usa `← Volver al libro`, `↑ Volver al indice` y `🌐 Cambiar idioma`.
+4. Usa `Notas relacionadas` y `Ver tambien` para saltar entre conceptos.
+
+</details>
 
 ## Por que existe este repositorio
 
