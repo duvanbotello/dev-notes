@@ -60,6 +60,7 @@ templates/
 * English (`.md`) is a **translation**
 * **DO NOT mix languages in the same file**
 * Every Spanish file should have a corresponding English version
+* Spanish files must use correct Spanish orthography (including `ñ`, accents, and opening punctuation like `¿` and `¡` when applicable)
 * `README.md` and `README.es.md` must always be synchronized in structure and meaning (language is the only difference)
 * All bilingual note pairs (`*.es.md` and `*.md`) must stay synchronized in content, sections, links, and updates
 * Any change in Spanish must be reflected in English in the same update cycle
