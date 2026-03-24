@@ -28,9 +28,15 @@
 
 ## Key takeaways
 
-- <takeaway-1>
-- <takeaway-2>
-- <takeaway-3>
+### Chapter 1 - <chapter-title>
+
+- <key-takeaway-1>
+- <key-takeaway-2>
+
+### Chapter 2 - <chapter-title>
+
+- <key-takeaway-1>
+- <key-takeaway-2>
 
 ## Favorite ideas
 
@@ -39,8 +45,15 @@
 
 ## Practical applications
 
-- <application-1>
-- <application-2>
+### Chapter 1 - <chapter-title>
+
+- <practical-application-1>
+- <practical-application-2>
+
+### Chapter 2 - <chapter-title>
+
+- <practical-application-1>
+- <practical-application-2>
 
 ## Related books
 

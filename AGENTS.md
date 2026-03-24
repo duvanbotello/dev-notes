@@ -44,6 +44,15 @@ templates/
   chapter-template.es.md
 ```
 
+### Template Paths and Usage
+
+Use templates from `/templates/` exactly as follows:
+
+* Book README in Spanish (`/books/<book-name>/README.es.md`) → `templates/book-template.es.md`
+* Book README in English (`/books/<book-name>/README.md`) → `templates/book-template.md`
+* Chapter in Spanish (`/books/<book-name>/chapters/ES/<nn>-<chapter>.es.md`) → `templates/chapter-template.es.md`
+* Chapter in English (`/books/<book-name>/chapters/EN/<nn>-<chapter>.md`) → `templates/chapter-template.md`
+
 ### Rules
 
 * Use **kebab-case** for folders and files
@@ -152,6 +161,8 @@ Each book (`README.md` and `README.es.md`) must include:
 * Key takeaways
 * Table of contents (chapters with links)
 * Personal reflections
+* `Key takeaways` / `Aprendizajes clave` organized by chapter using subsection headings (`### Chapter/Capítulo N - ...`)
+* `Practical applications` / `Aplicaciones prácticas` organized by chapter using subsection headings (`### Chapter/Capítulo N - ...`)
 
 ---
 
@@ -190,8 +201,9 @@ Whenever new notes are added for a chapter:
 1. Read the full current chapter file before editing
 2. Review the corresponding book README (`README.es.md` and `README.md`) for sections that should be enriched
 3. Update affected sections (from templates) to keep content coherent and connected
-4. Improve clarity and grouping where possible, without changing the chapter's core focus
-5. Keep Spanish as source of truth, then synchronize English in the same cycle
+4. Keep `Key takeaways` and `Practical applications` in book READMEs grouped by chapter and synchronized in both languages
+5. Improve clarity and grouping where possible, without changing the chapter's core focus
+6. Keep Spanish as source of truth, then synchronize English in the same cycle
 
 ---
 

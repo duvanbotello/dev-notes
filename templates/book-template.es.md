@@ -28,9 +28,15 @@
 
 ## Aprendizajes clave
 
-- <aprendizaje-1>
-- <aprendizaje-2>
-- <aprendizaje-3>
+### Capítulo 1 - <titulo-del-capitulo>
+
+- <aprendizaje-clave-1>
+- <aprendizaje-clave-2>
+
+### Capítulo 2 - <titulo-del-capitulo>
+
+- <aprendizaje-clave-1>
+- <aprendizaje-clave-2>
 
 ## Ideas favoritas
 
@@ -39,8 +45,15 @@
 
 ## Aplicaciones prácticas
 
-- <aplicacion-1>
-- <aplicacion-2>
+### Capítulo 1 - <titulo-del-capitulo>
+
+- <aplicacion-practica-1>
+- <aplicacion-practica-2>
+
+### Capítulo 2 - <titulo-del-capitulo>
+
+- <aplicacion-practica-1>
+- <aplicacion-practica-2>
 
 ## Libros relacionados
 
