@@ -24,7 +24,7 @@ This book connects software engineering decisions with long-term maintainability
 
 ## Chapters
 
-- [01 - Introduction](chapters/EN/01-introduction.md) | [ES](chapters/ES/01-introduction.es.md)
+- [01 - What is software engineering?](chapters/EN/01-introduction.md) | [ES](chapters/ES/01-introduction.es.md)
 - [05 - Team Leadership](chapters/EN/05-team-leadership.md) | [ES](chapters/ES/05-team-leadership.es.md)
 
 ## Key takeaways
@@ -32,6 +32,8 @@ This book connects software engineering decisions with long-term maintainability
 - Sustainable software engineering is socio-technical, not only technical.
 - Tradeoffs are unavoidable and must be made explicit.
 - Good practices scale when they are documented, teachable, and measurable.
+- The difference between "works now" and "is maintainable" defines real system quality.
+- Sustainability depends on changing safely throughout the full code lifecycle.
 
 ## Favorite ideas
 
@@ -42,6 +44,8 @@ This book connects software engineering decisions with long-term maintainability
 
 - Add decision logs for architecture and technical debt tradeoffs.
 - Define chapter-level checklists to turn concepts into team habits.
+- Revisit critical technical decisions periodically throughout system lifetime.
+- Design scaling policies aligned with actual continuous integration coverage.
 
 ## Related books
 

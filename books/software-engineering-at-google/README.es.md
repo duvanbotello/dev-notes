@@ -24,7 +24,7 @@ Este libro conecta decisiones de ingeniería con mantenibilidad de largo plazo y
 
 ## Capítulos
 
-- [01 - Introducción](chapters/ES/01-introduction.es.md) | [EN](chapters/EN/01-introduction.md)
+- [01 - ¿Qué es la ingeniería de software?](chapters/ES/01-introduction.es.md) | [EN](chapters/EN/01-introduction.md)
 - [05 - Liderazgo de equipo](chapters/ES/05-team-leadership.es.md) | [EN](chapters/EN/05-team-leadership.md)
 
 ## Aprendizajes clave
@@ -32,6 +32,8 @@ Este libro conecta decisiones de ingeniería con mantenibilidad de largo plazo y
 - La ingeniería de software sostenible es sociotécnica, no solo técnica.
 - Las compensaciones son inevitables y deben hacerse explícitas.
 - Las buenas prácticas escalan cuando se documentan, se enseñan y se miden.
+- La diferencia entre "funciona ahora" y "se puede mantener" define la calidad real del sistema.
+- La sostenibilidad depende de poder cambiar de forma segura durante toda la vida útil del código.
 
 ## Ideas favoritas
 
@@ -42,6 +44,8 @@ Este libro conecta decisiones de ingeniería con mantenibilidad de largo plazo y
 
 - Agregar registros de decisiones para arquitectura y deuda técnica.
 - Definir listas de verificación por capítulo para convertir conceptos en hábitos de equipo.
+- Revisar periódicamente decisiones técnicas críticas durante la vida útil del sistema.
+- Diseñar políticas de escalamiento alineadas con la cobertura real de integración continua.
 
 ## Libros relacionados
 
