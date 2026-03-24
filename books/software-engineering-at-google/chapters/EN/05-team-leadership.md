@@ -65,6 +65,7 @@ The strongest message in this chapter is that technical leadership matures when 
 - Book chapter 1: [01 - What is software engineering?](01-introduction.md)
 - Book chapter 2: [02 - Working well in teams](02-working-well-in-teams.md)
 - Book chapter 3: [03 - Sharing knowledge](03-sharing-knowledge.md)
+- Book chapter 9: [09 - Code review](09-code-review.md)
 - Book key takeaways: [Software Engineering at Google - Key takeaways](../../README.md#key-takeaways)
 - Book practical applications: [Software Engineering at Google - Practical applications](../../README.md#practical-applications)
 
@@ -78,7 +79,7 @@ The strongest message in this chapter is that technical leadership matures when 
 **Navigation**
 
 - Previous chapter: [03 - Sharing knowledge](03-sharing-knowledge.md)
-- Next chapter: Planned
+- Next chapter: [09 - Code review](09-code-review.md)
 - Related notes: [Book README](../../README.md), [Spanish version](../ES/05-team-leadership.es.md)
 
 ## Disclaimer

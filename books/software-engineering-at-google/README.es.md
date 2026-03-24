@@ -28,18 +28,31 @@ Este libro conecta decisiones de ingeniería con mantenibilidad de largo plazo y
 - [02 - Cómo trabajar bien en equipo](chapters/ES/02-como-trabajar-bien-en-equipo.es.md) | [EN](chapters/EN/02-working-well-in-teams.md)
 - [03 - Compartir conocimientos](chapters/ES/03-compartir-conocimientos.es.md) | [EN](chapters/EN/03-sharing-knowledge.md)
 - [05 - Liderazgo de equipo](chapters/ES/05-team-leadership.es.md) | [EN](chapters/EN/05-team-leadership.md)
+- [09 - Revisión de código](chapters/ES/09-revision-de-codigo.es.md) | [EN](chapters/EN/09-code-review.md)
 
 ## Aprendizajes clave
 
+### Capítulo 1 - ¿Qué es la ingeniería de software?
+
 - La ingeniería de software sostenible es sociotécnica, no solo técnica.
-- Las compensaciones son inevitables y deben hacerse explícitas.
-- Las buenas prácticas escalan cuando se documentan, se enseñan y se miden.
 - La diferencia entre "funciona ahora" y "se puede mantener" define la calidad real del sistema.
 - La sostenibilidad depende de poder cambiar de forma segura durante toda la vida útil del código.
+- Las compensaciones son inevitables y deben hacerse explícitas.
+
+### Capítulo 2 - Cómo trabajar bien en equipo
+
 - La colaboración visible reduce riesgo y evita invertir tiempo en la dirección equivocada.
 - La humildad, el respeto y la confianza son condiciones técnicas para que un equipo escale bien.
+
+### Capítulo 3 - Compartir conocimientos
+
 - Compartir conocimiento reduce puntos únicos de fallo y acelera la capacidad de aprendizaje.
 - La seguridad psicológica habilita preguntas, documentación viva y mejoras sostenibles.
+
+### Capítulo 9 - Revisión de código
+
+- La revisión de código bien diseñada protege corrección, coherencia y mantenibilidad.
+- La calidad de revisión depende de cambios pequeños, feedback profesional y criterios claros.
 
 ## Ideas favoritas
 
@@ -48,14 +61,27 @@ Este libro conecta decisiones de ingeniería con mantenibilidad de largo plazo y
 
 ## Aplicaciones prácticas
 
+### Capítulo 1 - ¿Qué es la ingeniería de software?
+
 - Agregar registros de decisiones para arquitectura y deuda técnica.
-- Definir listas de verificación por capítulo para convertir conceptos en hábitos de equipo.
 - Revisar periódicamente decisiones técnicas críticas durante la vida útil del sistema.
 - Diseñar políticas de escalamiento alineadas con la cobertura real de integración continua.
+
+### Capítulo 2 - Cómo trabajar bien en equipo
+
 - Formalizar post-mortems sin culpa con cambios concretos como salida obligatoria.
 - Incentivar feedback temprano para evitar ciclos largos de retrabajo.
+
+### Capítulo 3 - Compartir conocimientos
+
 - Institucionalizar ritmos de difusión interna: tips semanales y boletines técnicos.
 - Hacer buscable y editable la documentación para evitar islas de información.
+
+### Capítulo 9 - Revisión de código
+
+- Estandarizar revisiones con foco en legibilidad, simplicidad y aprendizaje compartido.
+- Automatizar validaciones repetitivas para que la revisión humana se concentre en diseño.
+- Definir listas de verificación por capítulo para convertir conceptos en hábitos de equipo.
 
 ## Libros relacionados
 
