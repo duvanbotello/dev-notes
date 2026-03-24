@@ -101,4 +101,5 @@ Este libro me recuerda que la excelencia técnica no aparece por accidente: es u
 
 - Estas notas son interpretaciones personales y material de aprendizaje.
 - Cualquier contenido citado pertenece a autores y editoriales originales.
-- Las citas son breves y se usan con fines educativos.
+- Las citas son breves, se atribuyen cuando es posible y se usan con fines educativos.
+- Este repositorio no republica capítulos completos ni extractos sustanciales con copyright.

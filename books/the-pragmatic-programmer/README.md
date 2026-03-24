@@ -101,4 +101,5 @@ This book reminds me that technical excellence does not happen by accident: it i
 
 - These notes are personal interpretations and learning material.
 - Any quoted content belongs to the original authors and publishers.
-- Quotes are short and used for educational purposes.
+- Quotes are short, attributed when possible, and used for educational purposes.
+- This repository does not republish full chapters or substantial copyrighted excerpts.

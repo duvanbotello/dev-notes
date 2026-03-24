@@ -131,4 +131,5 @@ I use this book as a framework for making engineering choices that remain useful
 
 - These notes are personal interpretations and learning material.
 - Any quoted content belongs to the original authors and publishers.
-- Quotes are short and used for educational purposes.
+- Quotes are short, attributed when possible, and used for educational purposes.
+- This repository does not republish full chapters or substantial copyrighted excerpts.

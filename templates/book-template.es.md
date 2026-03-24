@@ -97,6 +97,7 @@ Elige cómo quieres leer este libro:
 
 ## Aviso legal
 
-- Estas notas son interpretaciones personales.
-- Cualquier material citado pertenece a sus autores.
-- Las citas deben ser breves y educativas.
+- Estas notas son interpretaciones personales y material de aprendizaje.
+- Cualquier contenido citado pertenece a sus autores y editoriales originales.
+- Las citas son breves, se atribuyen cuando es posible y se usan con fines educativos.
+- Este repositorio no republica capítulos completos ni extractos sustanciales con copyright.

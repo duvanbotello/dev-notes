@@ -263,9 +263,12 @@ When creating new content:
 ## License and Legal
 
 * All original content in this repository is licensed under **CC BY 4.0**
+* CC BY 4.0 applies only to repository-original content, not to third-party quoted material
 * Notes are **personal interpretations and summaries**
 * Any referenced material belongs to its respective authors
 * Quotes are used for **educational and reference purposes only**
+* Keep quotes short and add attribution when possible (book/chapter/context)
+* Do not include full chapters or substantial copyrighted excerpts
 
 ---
 

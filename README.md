@@ -173,10 +173,13 @@ Use this route for quick navigation:
 
 This project is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
 
+Scope note: this license applies only to original content created in this repository (notes, structure, and personal interpretations).
+
 See [`LICENSE`](LICENSE).
 
 ## Disclaimer
 
 - These notes are personal interpretations and learning material.
 - Any quoted content belongs to its original authors and publishers.
-- Quotes are short and included for educational purposes.
+- Quotes are short, attributed when possible, and included for educational purposes.
+- This repository does not republish full chapters or substantial copyrighted excerpts.

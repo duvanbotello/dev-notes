@@ -130,5 +130,6 @@ Uso este libro como marco para tomar decisiones de ingeniería que sigan siendo 
 ## Aviso legal
 
 - Estas notas son interpretaciones personales y material de aprendizaje.
-- Cualquier contenido citado pertenece a autores y editoriales originales.
-- Las citas son breves y se usan con fines educativos.
+- Cualquier contenido citado pertenece a sus autores y editoriales originales.
+- Las citas son breves, se atribuyen cuando es posible y se usan con fines educativos.
+- Este repositorio no republica capítulos completos ni extractos sustanciales con copyright.

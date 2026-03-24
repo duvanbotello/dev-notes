@@ -97,6 +97,7 @@ Choose how you want to read this book:
 
 ## Disclaimer
 
-- These notes are personal interpretations.
-- Any quoted material belongs to its respective authors.
-- Quotes should remain short and educational.
+- These notes are personal interpretations and learning material.
+- Any quoted content belongs to its original authors and publishers.
+- Quotes are short, attributed when possible, and used for educational purposes.
+- This repository does not republish full chapters or substantial copyrighted excerpts.

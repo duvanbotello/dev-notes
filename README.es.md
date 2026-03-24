@@ -167,10 +167,13 @@ Usa esta ruta para navegar rápido:
 
 Este proyecto está licenciado bajo Creative Commons Attribution 4.0 International (CC BY 4.0).
 
+Nota de alcance: esta licencia aplica solo al contenido original creado en este repositorio (notas, estructura e interpretaciones personales).
+
 Consulta [`LICENSE`](LICENSE).
 
 ## Aviso legal
 
 - Estas notas son interpretaciones personales y material de aprendizaje.
 - Cualquier contenido citado pertenece a sus autores y editoriales originales.
-- Las citas son breves y se incluyen con fines educativos.
+- Las citas son breves, se atribuyen cuando es posible y se incluyen con fines educativos.
+- Este repositorio no republica capítulos completos ni extractos sustanciales con copyright.

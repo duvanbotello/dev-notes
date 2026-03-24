@@ -53,3 +53,10 @@
 - Previous chapter: <link-or-none>
 - Next chapter: <link-or-none>
 - Related notes: <link-list>
+
+## Disclaimer
+
+- These notes are personal interpretations and learning material.
+- Any quoted content belongs to its original authors and publishers.
+- Quotes are short, attributed when possible, and used for educational purposes.
+- This repository does not republish full chapters or substantial copyrighted excerpts.

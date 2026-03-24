@@ -74,5 +74,6 @@ Este capítulo muestra que colaborar bien no es una habilidad blanda opcional: e
 ## Aviso legal
 
 - Estas notas son interpretaciones personales y material de aprendizaje.
-- Cualquier contenido citado pertenece a sus autores.
-- Las citas son breves y se usan con fines educativos.
+- Cualquier contenido citado pertenece a sus autores y editoriales originales.
+- Las citas son breves, se atribuyen cuando es posible y se usan con fines educativos.
+- Este repositorio no republica capítulos completos ni extractos sustanciales con copyright.
