@@ -2,6 +2,8 @@
 
 # 03 - Sharing knowledge
 
+> Quick navigation: [Core idea](#core-idea) · [Key concepts](#key-concepts) · [Actions](#actions) · [Related notes](#related-notes)
+
 ## Core idea
 
 Knowledge sharing is not optional, it is a condition for engineering to scale. When knowledge remains in islands, errors, duplication, and dependency on a few people increase.

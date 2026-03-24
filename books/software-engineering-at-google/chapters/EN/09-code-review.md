@@ -2,6 +2,8 @@
 
 # 09 - Code review
 
+> Quick navigation: [Core idea](#core-idea) · [Key concepts](#key-concepts) · [Actions](#actions) · [Related notes](#related-notes)
+
 ## Core idea
 
 Code review is a process where someone other than the author evaluates a change to protect codebase health. When the process is well designed and taken seriously, it improves technical quality, consistency, collaboration, and organizational learning.

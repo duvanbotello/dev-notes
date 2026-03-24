@@ -2,6 +2,8 @@
 
 # 09 - Revisión de código
 
+> Navegación rápida: [Idea central](#idea-central) · [Conceptos clave](#conceptos-clave) · [Acciones](#acciones) · [Notas relacionadas](#notas-relacionadas)
+
 ## Idea central
 
 La revisión de código es un proceso donde alguien distinto al autor evalúa un cambio para proteger la salud de la base de código. Cuando el proceso está bien diseñado y se toma en serio, mejora calidad técnica, coherencia, colaboración y aprendizaje organizacional.

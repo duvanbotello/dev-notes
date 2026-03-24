@@ -2,6 +2,8 @@
 
 # 03 - Compartir conocimientos
 
+> Navegación rápida: [Idea central](#idea-central) · [Conceptos clave](#conceptos-clave) · [Acciones](#acciones) · [Notas relacionadas](#notas-relacionadas)
+
 ## Idea central
 
 Compartir conocimiento no es un extra, es una condición para que la ingeniería escale. Cuando el conocimiento se queda en islas, aumentan los errores, la duplicación y la dependencia de pocas personas.

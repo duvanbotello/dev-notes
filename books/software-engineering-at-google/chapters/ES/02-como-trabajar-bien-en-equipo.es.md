@@ -2,6 +2,8 @@
 
 # 02 - Cómo trabajar bien en equipo
 
+> Navegación rápida: [Idea central](#idea-central) · [Conceptos clave](#conceptos-clave) · [Acciones](#acciones) · [Notas relacionadas](#notas-relacionadas)
+
 ## Idea central
 
 El desarrollo de software es un esfuerzo en equipo. Trabajar de forma visible, con humildad, respeto y confianza, reduce riesgo, mejora decisiones y acelera el aprendizaje colectivo.

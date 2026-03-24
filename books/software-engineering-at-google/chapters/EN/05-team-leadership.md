@@ -2,6 +2,8 @@
 
 # 05 - Team Leadership
 
+> Quick navigation: [Core idea](#core-idea) · [Key concepts](#key-concepts) · [Actions](#actions) · [Related notes](#related-notes)
+
 ## Core idea
 
 An engineering team needs active leadership to sustain focus and stability. Effective leadership is not about controlling everything: it is about serving the team with humility, respect, and trust, setting clear direction, and creating conditions for autonomous growth.

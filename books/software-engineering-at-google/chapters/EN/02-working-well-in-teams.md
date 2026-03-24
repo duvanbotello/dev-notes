@@ -2,6 +2,8 @@
 
 # 02 - Working well in teams
 
+> Quick navigation: [Core idea](#core-idea) · [Key concepts](#key-concepts) · [Actions](#actions) · [Related notes](#related-notes)
+
 ## Core idea
 
 Software development is a team effort. Working visibly, with humility, respect, and trust, lowers risk, improves decisions, and accelerates collective learning.

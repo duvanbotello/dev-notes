@@ -2,6 +2,8 @@
 
 # 01 - ¿Qué es la ingeniería de software?
 
+> Navegación rápida: [Idea central](#idea-central) · [Conceptos clave](#conceptos-clave) · [Acciones](#acciones) · [Notas relacionadas](#notas-relacionadas)
+
 ## Idea central
 
 En un proyecto de ingeniería de software, la preocupación principal no es solo que algo funcione hoy, sino cómo se comporta con el paso del tiempo y con los cambios inevitables. La sostenibilidad de la base de código depende de poder cambiar lo necesario de forma segura durante toda su vida útil.

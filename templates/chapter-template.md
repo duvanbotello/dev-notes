@@ -2,6 +2,8 @@
 
 # <chapter-number> - <chapter-title>
 
+> Quick navigation: [Core idea](#core-idea) · [Key concepts](#key-concepts) · [Actions](#actions) · [Related notes](#related-notes)
+
 ## Core idea
 
 <Summarize the central message of the chapter in one paragraph.>

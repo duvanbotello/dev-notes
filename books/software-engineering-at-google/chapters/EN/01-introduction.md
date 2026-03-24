@@ -2,6 +2,8 @@
 
 # 01 - What is software engineering?
 
+> Quick navigation: [Core idea](#core-idea) · [Key concepts](#key-concepts) · [Actions](#actions) · [Related notes](#related-notes)
+
 ## Core idea
 
 In a software engineering project, the main concern is not only whether something works today, but how it behaves over time and through inevitable change. Codebase sustainability depends on being able to change what must change, safely, during its full useful life.

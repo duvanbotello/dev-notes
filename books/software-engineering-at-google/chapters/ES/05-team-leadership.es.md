@@ -2,6 +2,8 @@
 
 # 05 - Liderazgo de equipo
 
+> Navegación rápida: [Idea central](#idea-central) · [Conceptos clave](#conceptos-clave) · [Acciones](#acciones) · [Notas relacionadas](#notas-relacionadas)
+
 ## Idea central
 
 Un equipo de ingeniería necesita liderazgo activo para avanzar con foco y estabilidad. Liderar bien no significa controlar todo: significa servir al equipo con humildad, respeto y confianza, establecer dirección clara y crear un entorno donde las personas puedan crecer con autonomía.

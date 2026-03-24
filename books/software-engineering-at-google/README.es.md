@@ -1,5 +1,10 @@
 # Software Engineering at Google
 
+[![Idioma](https://img.shields.io/badge/Idioma-Español-1f6feb)](README.es.md)
+[![English](https://img.shields.io/badge/EN-Disponible-0e8a16)](README.md)
+[![Capítulos](https://img.shields.io/badge/Capítulos-5-f9a825)](#capítulos)
+[![Estado](https://img.shields.io/badge/Estado-Leyendo-6f42c1)](#metadatos)
+
 ## Metadatos
 
 - Título: Software Engineering at Google
@@ -11,6 +16,28 @@
 
 - Versión en inglés: [README.md](README.md)
 - Volver al índice del repositorio: [../../README.es.md](../../README.es.md)
+
+## Navegación rápida
+
+- 📘 [Capítulos](#capítulos)
+- 🎯 [Aprendizajes clave](#aprendizajes-clave)
+- 🧪 [Aplicaciones prácticas](#aplicaciones-prácticas)
+- 🔗 [Libros relacionados](#libros-relacionados)
+- 🌐 [Cambiar a inglés](README.md)
+- ⬆️ [Volver al índice del repositorio](../../README.es.md)
+
+<details>
+<summary><strong>Mapa rápido del libro (abrir/cerrar)</strong></summary>
+
+| Capítulo | Tema central | ES | EN |
+|---|---|---|---|
+| 01 | ¿Qué es la ingeniería de software? | [Abrir](chapters/ES/01-introduction.es.md) | [Open](chapters/EN/01-introduction.md) |
+| 02 | Cómo trabajar bien en equipo | [Abrir](chapters/ES/02-como-trabajar-bien-en-equipo.es.md) | [Open](chapters/EN/02-working-well-in-teams.md) |
+| 03 | Compartir conocimientos | [Abrir](chapters/ES/03-compartir-conocimientos.es.md) | [Open](chapters/EN/03-sharing-knowledge.md) |
+| 05 | Liderazgo de equipo | [Abrir](chapters/ES/05-team-leadership.es.md) | [Open](chapters/EN/05-team-leadership.md) |
+| 09 | Revisión de código | [Abrir](chapters/ES/09-revision-de-codigo.es.md) | [Open](chapters/EN/09-code-review.md) |
+
+</details>
 
 ## Temas principales
 
