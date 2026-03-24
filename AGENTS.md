@@ -171,6 +171,17 @@ Each book (`README.md` and `README.es.md`) must include:
 
 ---
 
+## Repository README Updates
+
+When any book content is added or updated (book README or chapter files), both root files `README.es.md` and `README.md` must be updated in the same cycle:
+
+* Keep a `Novedades` / `What's new` section in the root README files
+* Show **only the latest 3 updates** in those sections
+* Each update entry should link to the affected book/chapter
+* Refresh the list order so newest updates appear first
+
+---
+
 ## Chapter-Level Requirements
 
 Each chapter must follow the template and include:

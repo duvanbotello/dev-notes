@@ -5,6 +5,7 @@
 [![Primary language](https://img.shields.io/badge/Language-Spanish-1f6feb)](README.es.md)
 [![Translation](https://img.shields.io/badge/Translation-English-0e8a16)](README.md)
 [![License](https://img.shields.io/badge/License-CC--BY--4.0-f9a825)](LICENSE)
+[![Books](https://img.shields.io/badge/Books-2-6f42c1)](#books-index)
 
 ## Cover
 
@@ -12,12 +13,14 @@
 
 - Go to this file (README in English): [`README.md`](README.md)
 - Switch to Spanish: [`README.es.md`](README.es.md)
-- Open example book (EN): [`books/software-engineering-at-google/README.md`](books/software-engineering-at-google/README.md)
+- Explore available books: [Books index](#books-index)
 - Create new notes from templates: [`templates/`](templates/)
 
 ### Interactive navigation
 
+- [What's new](#whats-new)
 - [Why this repository exists](#why-this-repository-exists)
+- [Start here](#start-here)
 - [Books index](#books-index)
 - [How to navigate](#how-to-navigate)
 - [How to use this repository](#how-to-use-this-repository)
@@ -35,6 +38,14 @@
 
 </details>
 
+## What's new
+
+> This section shows **only the latest 3 updates** in the repository. It must be refreshed whenever content is added or updated in any book.
+
+- New chapter: [Software Engineering at Google - 09 Code review](books/software-engineering-at-google/chapters/EN/09-code-review.md)
+- New chapter: [Software Engineering at Google - 03 Sharing knowledge](books/software-engineering-at-google/chapters/EN/03-sharing-knowledge.md)
+- New book: [The Pragmatic Programmer](books/the-pragmatic-programmer/README.md)
+
 ## Why this repository exists
 
 This repository exists to turn reading notes into a practical engineering handbook:
@@ -50,14 +61,33 @@ This repository exists to turn reading notes into a practical engineering handbo
 - English is a clean and professional translation.
 - Each file uses only one language.
 
+## Start here
+
+- If you want a fast read: open a book README and use quick navigation.
+- If you want concept depth: open a chapter and follow `Related notes` + `See also`.
+- If you want to add notes: use templates in `templates/` and write Spanish first.
+
 ## Books index
 
-- `software-engineering-at-google`
-  - English: [`books/software-engineering-at-google/README.md`](books/software-engineering-at-google/README.md)
-  - Spanish: [`books/software-engineering-at-google/README.es.md`](books/software-engineering-at-google/README.es.md)
-- `the-pragmatic-programmer`
-  - English: [`books/the-pragmatic-programmer/README.md`](books/the-pragmatic-programmer/README.md)
-  - Spanish: [`books/the-pragmatic-programmer/README.es.md`](books/the-pragmatic-programmer/README.es.md)
+| Book | Status | Chapters | English | Spanish |
+|---|---|---:|---|---|
+| `software-engineering-at-google` | reading | 5 | [Open](books/software-engineering-at-google/README.md) | [Abrir](books/software-engineering-at-google/README.es.md) |
+| `the-pragmatic-programmer` | reading | 2 | [Open](books/the-pragmatic-programmer/README.md) | [Abrir](books/the-pragmatic-programmer/README.es.md) |
+
+<details>
+<summary><strong>Global quick map (expand/collapse)</strong></summary>
+
+| Book | Chapter | EN | ES |
+|---|---|---|---|
+| Software Engineering at Google | 01 - What is software engineering? | [Open](books/software-engineering-at-google/chapters/EN/01-introduction.md) | [Abrir](books/software-engineering-at-google/chapters/ES/01-introduction.es.md) |
+| Software Engineering at Google | 02 - Working well in teams | [Open](books/software-engineering-at-google/chapters/EN/02-working-well-in-teams.md) | [Abrir](books/software-engineering-at-google/chapters/ES/02-como-trabajar-bien-en-equipo.es.md) |
+| Software Engineering at Google | 03 - Sharing knowledge | [Open](books/software-engineering-at-google/chapters/EN/03-sharing-knowledge.md) | [Abrir](books/software-engineering-at-google/chapters/ES/03-compartir-conocimientos.es.md) |
+| Software Engineering at Google | 05 - Team leadership | [Open](books/software-engineering-at-google/chapters/EN/05-team-leadership.md) | [Abrir](books/software-engineering-at-google/chapters/ES/05-team-leadership.es.md) |
+| Software Engineering at Google | 09 - Code review | [Open](books/software-engineering-at-google/chapters/EN/09-code-review.md) | [Abrir](books/software-engineering-at-google/chapters/ES/09-revision-de-codigo.es.md) |
+| The Pragmatic Programmer | 00 - Preface | [Open](books/the-pragmatic-programmer/chapters/EN/00-preface.md) | [Abrir](books/the-pragmatic-programmer/chapters/ES/00-prefacio.es.md) |
+| The Pragmatic Programmer | 01 - A pragmatic philosophy | [Open](books/the-pragmatic-programmer/chapters/EN/01-a-pragmatic-philosophy.md) | [Abrir](books/the-pragmatic-programmer/chapters/ES/01-una-filosofia-pragmatica.es.md) |
+
+</details>
 
 ## How notes are organized
 
@@ -83,10 +113,16 @@ Each chapter includes top and bottom navigation, language switching, and cross-l
 │   │   └── chapters/
 │   │       ├── EN/
 │   │       │   ├── 01-introduction.md
-│   │       │   └── 05-team-leadership.md
+│   │       │   ├── 02-working-well-in-teams.md
+│   │       │   ├── 03-sharing-knowledge.md
+│   │       │   ├── 05-team-leadership.md
+│   │       │   └── 09-code-review.md
 │   │       └── ES/
 │   │           ├── 01-introduction.es.md
-│   │           └── 05-team-leadership.es.md
+│   │           ├── 02-como-trabajar-bien-en-equipo.es.md
+│   │           ├── 03-compartir-conocimientos.es.md
+│   │           ├── 05-team-leadership.es.md
+│   │           └── 09-revision-de-codigo.es.md
 │   └── the-pragmatic-programmer/
 │       ├── README.es.md
 │       ├── README.md
@@ -125,6 +161,13 @@ Use this route for quick navigation:
 - Update Spanish files first and then translate into English.
 - Add short quotes and practical actions.
 - Keep cross-links between related concepts.
+
+### Short content creation flow
+
+1. Create the book folder under `books/<book-name>/`.
+2. Create `README.es.md` and `README.md` using `templates/book-template.*`.
+3. Create chapters in `chapters/ES/` and translate to `chapters/EN/` using `templates/chapter-template.*`.
+4. Update books index and chapter navigation links.
 
 ## License
 

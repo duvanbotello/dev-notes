@@ -5,6 +5,7 @@
 [![Idioma principal](https://img.shields.io/badge/Idioma-Español-1f6feb)](README.es.md)
 [![Traducción](https://img.shields.io/badge/Translation-English-0e8a16)](README.md)
 [![Licencia](https://img.shields.io/badge/License-CC--BY--4.0-f9a825)](LICENSE)
+[![Libros](https://img.shields.io/badge/Libros-2-6f42c1)](#índice-de-libros)
 
 ## Portada
 
@@ -12,12 +13,14 @@
 
 - Ir a este archivo (README en español): [`README.es.md`](README.es.md)
 - Cambiar a inglés: [`README.md`](README.md)
-- Ver libro de ejemplo (ES): [`books/software-engineering-at-google/README.es.md`](books/software-engineering-at-google/README.es.md)
+- Explorar libros disponibles: [Índice de libros](#índice-de-libros)
 - Crear nuevas notas desde plantillas: [`templates/`](templates/)
 
 ### Navegación interactiva
 
+- [Novedades](#novedades)
 - [Por qué existe este repositorio](#por-qué-existe-este-repositorio)
+- [Empezar aquí](#empezar-aquí)
 - [Índice de libros](#índice-de-libros)
 - [Cómo navegar](#cómo-navegar)
 - [Cómo usar este repositorio](#cómo-usar-este-repositorio)
@@ -34,6 +37,14 @@
 4. Usa `Notas relacionadas` y `Ver también` para saltar entre conceptos.
 
 </details>
+
+## Novedades
+
+> Esta sección muestra **solo las 3 últimas novedades** del repositorio. Debe actualizarse cada vez que se agregue o modifique contenido en cualquier libro.
+
+- Nuevo capítulo: [Software Engineering at Google - 09 Revisión de código](books/software-engineering-at-google/chapters/ES/09-revision-de-codigo.es.md)
+- Nuevo capítulo: [Software Engineering at Google - 03 Compartir conocimientos](books/software-engineering-at-google/chapters/ES/03-compartir-conocimientos.es.md)
+- Nuevo libro: [The Pragmatic Programmer](books/the-pragmatic-programmer/README.es.md)
 
 ## Por qué existe este repositorio
 
@@ -52,12 +63,25 @@ Este repositorio existe para convertir notas de lectura en un manual práctico d
 
 ## Índice de libros
 
-- `software-engineering-at-google`
-  - Inglés: [`books/software-engineering-at-google/README.md`](books/software-engineering-at-google/README.md)
-  - Español: [`books/software-engineering-at-google/README.es.md`](books/software-engineering-at-google/README.es.md)
-- `the-pragmatic-programmer`
-  - Inglés: [`books/the-pragmatic-programmer/README.md`](books/the-pragmatic-programmer/README.md)
-  - Español: [`books/the-pragmatic-programmer/README.es.md`](books/the-pragmatic-programmer/README.es.md)
+| Libro | Estado | Capítulos | Español | English |
+|---|---|---:|---|---|
+| `software-engineering-at-google` | leyendo | 5 | [Abrir](books/software-engineering-at-google/README.es.md) | [Open](books/software-engineering-at-google/README.md) |
+| `the-pragmatic-programmer` | leyendo | 2 | [Abrir](books/the-pragmatic-programmer/README.es.md) | [Open](books/the-pragmatic-programmer/README.md) |
+
+<details>
+<summary><strong>Mapa rápido global (abrir/cerrar)</strong></summary>
+
+| Libro | Capítulo | ES | EN |
+|---|---|---|---|
+| Software Engineering at Google | 01 - ¿Qué es la ingeniería de software? | [Abrir](books/software-engineering-at-google/chapters/ES/01-introduction.es.md) | [Open](books/software-engineering-at-google/chapters/EN/01-introduction.md) |
+| Software Engineering at Google | 02 - Cómo trabajar bien en equipo | [Abrir](books/software-engineering-at-google/chapters/ES/02-como-trabajar-bien-en-equipo.es.md) | [Open](books/software-engineering-at-google/chapters/EN/02-working-well-in-teams.md) |
+| Software Engineering at Google | 03 - Compartir conocimientos | [Abrir](books/software-engineering-at-google/chapters/ES/03-compartir-conocimientos.es.md) | [Open](books/software-engineering-at-google/chapters/EN/03-sharing-knowledge.md) |
+| Software Engineering at Google | 05 - Liderazgo de equipo | [Abrir](books/software-engineering-at-google/chapters/ES/05-team-leadership.es.md) | [Open](books/software-engineering-at-google/chapters/EN/05-team-leadership.md) |
+| Software Engineering at Google | 09 - Revisión de código | [Abrir](books/software-engineering-at-google/chapters/ES/09-revision-de-codigo.es.md) | [Open](books/software-engineering-at-google/chapters/EN/09-code-review.md) |
+| The Pragmatic Programmer | 00 - Prefacio | [Abrir](books/the-pragmatic-programmer/chapters/ES/00-prefacio.es.md) | [Open](books/the-pragmatic-programmer/chapters/EN/00-preface.md) |
+| The Pragmatic Programmer | 01 - Una filosofía pragmática | [Abrir](books/the-pragmatic-programmer/chapters/ES/01-una-filosofia-pragmatica.es.md) | [Open](books/the-pragmatic-programmer/chapters/EN/01-a-pragmatic-philosophy.md) |
+
+</details>
 
 ## Cómo se organizan las notas
 
@@ -83,10 +107,16 @@ Cada capítulo incluye navegación superior e inferior, cambio de idioma y enlac
 │   │   └── chapters/
 │   │       ├── EN/
 │   │       │   ├── 01-introduction.md
-│   │       │   └── 05-team-leadership.md
+│   │       │   ├── 02-working-well-in-teams.md
+│   │       │   ├── 03-sharing-knowledge.md
+│   │       │   ├── 05-team-leadership.md
+│   │       │   └── 09-code-review.md
 │   │       └── ES/
 │   │           ├── 01-introduction.es.md
-│   │           └── 05-team-leadership.es.md
+│   │           ├── 02-como-trabajar-bien-en-equipo.es.md
+│   │           ├── 03-compartir-conocimientos.es.md
+│   │           ├── 05-team-leadership.es.md
+│   │           └── 09-revision-de-codigo.es.md
 │   └── the-pragmatic-programmer/
 │       ├── README.es.md
 │       ├── README.md
@@ -125,6 +155,13 @@ Usa esta ruta para navegar rápido:
 - Actualiza primero los archivos en español y después traduce al inglés.
 - Agrega citas breves y acciones prácticas.
 - Mantén enlaces cruzados entre conceptos relacionados.
+
+### Flujo corto para crear contenido
+
+1. Crear carpeta del libro en `books/<book-name>/`.
+2. Crear `README.es.md` y `README.md` usando `templates/book-template.*`.
+3. Crear capítulo en `chapters/ES/` y traducir a `chapters/EN/` usando `templates/chapter-template.*`.
+4. Actualizar índice de libros y enlaces de navegación.
 
 ## Licencia
 
