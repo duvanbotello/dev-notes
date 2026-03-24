@@ -55,6 +55,9 @@ Este repositorio existe para convertir notas de lectura en un manual práctico d
 - `software-engineering-at-google`
   - Inglés: [`books/software-engineering-at-google/README.md`](books/software-engineering-at-google/README.md)
   - Español: [`books/software-engineering-at-google/README.es.md`](books/software-engineering-at-google/README.es.md)
+- `the-pragmatic-programmer`
+  - Inglés: [`books/the-pragmatic-programmer/README.md`](books/the-pragmatic-programmer/README.md)
+  - Español: [`books/the-pragmatic-programmer/README.es.md`](books/the-pragmatic-programmer/README.es.md)
 
 ## Cómo se organizan las notas
 
@@ -74,16 +77,26 @@ Cada capítulo incluye navegación superior e inferior, cambio de idioma y enlac
 ├── README.es.md
 ├── README.md
 ├── books/
-│   └── software-engineering-at-google/
+│   ├── software-engineering-at-google/
+│   │   ├── README.es.md
+│   │   ├── README.md
+│   │   └── chapters/
+│   │       ├── EN/
+│   │       │   ├── 01-introduction.md
+│   │       │   └── 05-team-leadership.md
+│   │       └── ES/
+│   │           ├── 01-introduction.es.md
+│   │           └── 05-team-leadership.es.md
+│   └── the-pragmatic-programmer/
 │       ├── README.es.md
 │       ├── README.md
 │       └── chapters/
 │           ├── EN/
-│           │   ├── 01-introduction.md
-│           │   └── 05-team-leadership.md
+│           │   ├── 00-preface.md
+│           │   └── 01-a-pragmatic-philosophy.md
 │           └── ES/
-│               ├── 01-introduction.es.md
-│               └── 05-team-leadership.es.md
+│               ├── 00-prefacio.es.md
+│               └── 01-una-filosofia-pragmatica.es.md
 └── templates/
     ├── book-template.es.md
     ├── book-template.md
