@@ -42,7 +42,7 @@ Elige cómo quieres leer este repositorio:
 
 > Esta sección muestra **solo las 3 últimas novedades** del repositorio. Debe actualizarse cada vez que se agregue o modifique contenido en cualquier libro.
 
-- Nuevo capítulo: [The Pragmatic Programmer - 02 Un enfoque pragmático](books/the-pragmatic-programmer/chapters/ES/02-un-enfoque-pragmatico.es.md)
+- Actualización de capítulo: [The Pragmatic Programmer - 02 Un enfoque pragmático](books/the-pragmatic-programmer/chapters/ES/02-un-enfoque-pragmatico.es.md)
 - Actualización de libro: [The Pragmatic Programmer](books/the-pragmatic-programmer/README.es.md)
 - Nuevo capítulo: [Software Engineering at Google - 09 Revisión de código](books/software-engineering-at-google/chapters/ES/09-revision-de-codigo.es.md)
 

@@ -42,7 +42,7 @@ Choose how you want to read this repository:
 
 > This section shows **only the latest 3 updates** in the repository. It must be refreshed whenever content is added or updated in any book.
 
-- New chapter: [The Pragmatic Programmer - 02 A pragmatic approach](books/the-pragmatic-programmer/chapters/EN/02-a-pragmatic-approach.md)
+- Chapter update: [The Pragmatic Programmer - 02 A pragmatic approach](books/the-pragmatic-programmer/chapters/EN/02-a-pragmatic-approach.md)
 - Book update: [The Pragmatic Programmer](books/the-pragmatic-programmer/README.md)
 - New chapter: [Software Engineering at Google - 09 Code review](books/software-engineering-at-google/chapters/EN/09-code-review.md)
 

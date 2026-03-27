@@ -6,18 +6,21 @@
 
 ## Core idea
 
-Orthogonality reduces friction: when components are well isolated, you can change one without breaking others as long as its interface remains stable. The opposite (non-orthogonal systems) makes change expensive and risky because everything collides with everything.
+A pragmatic approach reduces risk through early learning: design orthogonal systems so changes stay safe, use tracer bullets to validate end-to-end integration, prototype to explore quickly, and estimate with intent to avoid surprises.
 
 ## Key concepts
 
 - **Orthogonality benefit:** better control, maintainability, and speed of change.
 - **Coupling cost:** in non-orthogonal systems, a local decision impacts many other parts.
-- **Helicopter example:** even if it looks simple in number of controls, each movement affects other parameters and requires constant compensation.
 - **Isolation through interfaces:** if external interfaces stay stable, a component can evolve with lower risk.
-- **Third-party dependencies:** every tool or library can add hidden coupling; choose technologies carefully.
-- **Decoupled code as discipline:** avoid global data, functional duplication, and overly similar functions.
-- **Testing as design signal:** if a unit test needs to import a large portion of the system, decoupling is weak.
-- **Reversibility:** assume nothing is permanent; design decisions that can change when context changes.
+- **Tracer bullets:** implement a thin, functional, end-to-end path to get early integration feedback.
+- **Tracer bullets vs. prototypes:** tracer bullets evolve on real code; prototypes are for exploration and should be discarded.
+- **High-value prototypes:** architecture, new functionality over existing systems, structure or content of external data, third-party components, performance concerns, and UI design.
+- **Explicitly disposable prototype:** it must be clear to everyone that it is incomplete and not production foundation.
+- **Domain language:** the problem-domain vocabulary can directly suggest a programming solution.
+- **Estimation as risk management:** estimates do not predict the future, but they reduce surprises and improve planning conversations.
+- **Sufficient accuracy:** before estimating, ask whether high precision or a rough number is needed.
+- **What to say when asked for an estimate:** avoid improvised answers; take time to think and respond with context.
 
 ## Quotes (short only)
 
@@ -26,29 +29,30 @@ Orthogonality reduces friction: when components are well isolated, you can chang
 
 ## My interpretation
 
-This chapter reinforces two habits for me: design to avoid side effects and make decisions expecting change. Orthogonality is not an architectural luxury; it is a practical way to reduce incidents and keep the system evolvable.
+This chapter leaves me with a practical idea: not everything is solved by building faster; many things are solved by learning earlier. That is why I combine three habits: decouple to change safely, prototype to explore without self-deception, and estimate deliberately instead of committing dates from intuition.
 
 ## Practical lessons
 
 - Every line of code can increase or reduce coupling, so this impact should be reviewed intentionally.
-- If a unit test needs half the system to run, modularity is failing.
-- Adopting technology by trend usually makes future changes more expensive.
-- Designing for reversibility helps correct direction without rebuilding everything.
+- If I use tracer bullets, they should cover a real end-to-end flow, not just an isolated technical mock.
+- If I build a prototype, I should label it as disposable to avoid it slipping into production under schedule pressure.
+- In estimates, first define required precision and then the right time horizon (hours, days, weeks, or months).
+- A thoughtful estimate is more reliable than a quick number given "next to the coffee machine."
 
 ## Questions
 
 - Which parts of my system change together because of weak design instead of real need?
-- Which third-party libraries are imposing decisions that are hard to reverse?
-- How many possible futures does my architecture support today?
-- How costly would it be to change a critical decision in six months?
+- Am I using a tracer bullet when I need real integration, or a prototype when I only need exploration?
+- Is it explicit for the team which code is disposable and which code should evolve toward production?
+- Am I requesting the right level of precision before committing to an estimate?
 
 ## Actions
 
 - [ ] Review one current module and identify unnecessary coupling between components.
-- [ ] Remove at least one global dependency (global state or shared access) in the next iteration.
-- [ ] Create or adjust one unit test so it runs with minimal dependencies.
-- [ ] Document one important technical decision together with its rollback plan.
-- [ ] Continue completing pending notes for the rest of chapter 2.
+- [ ] Design one tracer bullet this week to validate a critical end-to-end flow.
+- [ ] Prepare one architecture or performance prototype and mark its disposable nature explicitly.
+- [ ] Define a short estimation template with range, assumptions, and required precision.
+- [ ] Avoid instant estimate commitments: always respond after a brief reflection.
 
 ## Related notes
 

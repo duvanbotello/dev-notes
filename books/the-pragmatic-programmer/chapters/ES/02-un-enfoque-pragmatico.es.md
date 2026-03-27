@@ -6,18 +6,21 @@
 
 ## Idea central
 
-La ortogonalidad reduce fricción: cuando los componentes están bien aislados, puedes cambiar uno sin romper los demás mientras mantengas su interfaz. Lo contrario (sistemas no ortogonales) vuelve el cambio caro y riesgoso, porque todo choca con todo.
+Un enfoque pragmático reduce riesgo con aprendizaje temprano: diseña sistemas ortogonales para cambiar sin romper, usa balas trazadoras para validar integración de extremo a extremo, prototipa para explorar rápido y estima con criterio para evitar sorpresas.
 
 ## Conceptos clave
 
 - **Beneficio de la ortogonalidad:** mejora control, mantenibilidad y velocidad de cambio.
 - **Costo del acoplamiento:** en sistemas no ortogonales, una decisión local impacta múltiples partes.
-- **Ejemplo del helicóptero:** aunque parezca simple por cantidad de controles, cada ajuste afecta otros parámetros y exige compensaciones constantes.
-- **Aislamiento por interfaces:** si no cambian las interfaces externas, se puede evolucionar un componente con menos riesgo.
-- **Dependencias de terceros:** cada herramienta o biblioteca puede introducir acoplamientos ocultos; hay que elegir con criterio.
-- **Código desacoplado como disciplina:** evitar datos globales, duplicación funcional y funciones demasiado parecidas.
-- **Pruebas como señal de diseño:** si una prueba unitaria necesita importar gran parte del sistema, hay falta de desacople.
-- **Reversibilidad:** asumir que nada es permanente; diseñar decisiones que puedan cambiar cuando el contexto cambie.
+- **Aislamiento por interfaces:** si las interfaces externas se mantienen estables, un componente puede evolucionar con menos riesgo.
+- **Balas trazadoras:** implementar un camino delgado, funcional y de extremo a extremo para obtener feedback temprano de integración.
+- **Balas trazadoras vs. prototipos:** la bala trazadora busca evolucionar sobre código real; el prototipo explora ideas y se desecha.
+- **Prototipos de alto valor:** arquitectura, nueva funcionalidad sobre sistemas existentes, estructura o contenido de datos externos, componentes de terceros, rendimiento y diseño de interfaz.
+- **Prototipo explícitamente desechable:** debe quedar claro para todos que está incompleto y no se convierte en base de producción.
+- **Lenguaje del dominio:** el vocabulario del problema puede sugerir directamente una solución de programación.
+- **Estimación como gestión de riesgo:** estimar no adivina el futuro, pero reduce sorpresas y mejora conversaciones.
+- **Exactitud suficiente:** antes de estimar, preguntar si necesitan precisión alta o una cifra aproximada.
+- **Qué decir al pedirte una estimación:** evitar respuestas improvisadas; tomar tiempo para pensar y responder con más contexto.
 
 ## Citas (solo breves)
 
@@ -26,29 +29,30 @@ La ortogonalidad reduce fricción: cuando los componentes están bien aislados, 
 
 ## Mi interpretación
 
-Este capítulo me aterriza dos hábitos: diseñar para evitar efectos colaterales y decidir sabiendo que el futuro cambia. La ortogonalidad no es un lujo de arquitectura; es una forma práctica de reducir incidentes y de mantener capacidad de evolución.
+Este capítulo me deja una idea práctica: no todo se resuelve construyendo más rápido, muchas veces se resuelve aprendiendo antes. Por eso combiné tres hábitos: desacoplar para cambiar con seguridad, prototipar para explorar sin autoengaño y estimar con pausa para no comprometer fechas desde la intuición.
 
 ## Lecciones prácticas
 
 - Cada línea de código puede subir o bajar el acoplamiento: hay que revisar ese impacto de forma intencional.
-- Si una prueba unitaria requiere medio sistema para correr, la modularidad está fallando.
-- Introducir tecnología por moda suele encarecer cambios futuros.
-- Diseñar reversibilidad permite corregir rumbo sin rehacer todo.
+- Si uso una bala trazadora, debo cubrir flujo real de extremo a extremo, no solo una maqueta técnica aislada.
+- Si hago un prototipo, debo etiquetarlo como desechable para evitar que termine en producción por presión de tiempo.
+- En estimaciones, primero defino nivel de precisión requerido y luego el horizonte temporal correcto (horas, días, semanas o meses).
+- Una estimación pensada con calma vale más que una cifra rápida dada "junto a la máquina de café".
 
 ## Preguntas
 
 - ¿Qué partes de mi sistema cambian juntas por diseño deficiente y no por necesidad real?
-- ¿Qué bibliotecas de terceros están imponiendo decisiones difíciles de revertir?
-- ¿Cuántos futuros posibles soporta hoy mi arquitectura?
-- ¿Qué tan costoso sería cambiar una decisión crítica en seis meses?
+- ¿Estoy usando una bala trazadora cuando necesito integración real, o un prototipo cuando solo necesito explorar?
+- ¿Quedó explícito para el equipo qué código es desechable y qué código evoluciona a producción?
+- ¿Estoy pidiendo el nivel correcto de precisión antes de comprometer una estimación?
 
 ## Acciones
 
 - [ ] Revisar un módulo actual e identificar acoplamientos innecesarios entre componentes.
-- [ ] Eliminar al menos una dependencia global (estado global o acceso compartido) en la próxima iteración.
-- [ ] Crear o ajustar una prueba unitaria para que ejecute con dependencias mínimas.
-- [ ] Documentar una decisión técnica importante con su plan de reversión.
-- [ ] Continuar completando las notas pendientes del resto del capítulo 2.
+- [ ] Diseñar una bala trazadora para validar un flujo crítico de extremo a extremo esta semana.
+- [ ] Preparar un prototipo de arquitectura o rendimiento y marcar explícitamente su carácter desechable.
+- [ ] Definir una plantilla corta de estimación con rango, supuestos y nivel de precisión requerido.
+- [ ] Evitar comprometer estimaciones instantáneas: responder siempre después de una breve reflexión.
 
 ## Notas relacionadas
 

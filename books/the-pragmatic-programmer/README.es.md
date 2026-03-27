@@ -78,8 +78,9 @@ Estas notas aterrizan una idea simple pero exigente: programar bien no es solo e
 ### Capítulo 2 - Un enfoque pragmático
 
 - La ortogonalidad facilita cambiar un componente sin generar impactos colaterales.
-- Las pruebas unitarias exponen módulos mal desacoplados cuando requieren demasiadas dependencias.
-- Las decisiones técnicas deben diseñarse con reversibilidad para adaptarse al cambio.
+- Las balas trazadoras validan integración de extremo a extremo desde temprano y reducen incertidumbre técnica.
+- Los prototipos son útiles para explorar arquitectura, rendimiento o UX, pero deben declararse como desechables.
+- En estimaciones, primero hay que acordar el nivel de exactitud requerido antes de comprometer una fecha.
 
 ## Ideas favoritas
 
@@ -101,8 +102,9 @@ Estas notas aterrizan una idea simple pero exigente: programar bien no es solo e
 ### Capítulo 2 - Un enfoque pragmático
 
 - Evitar datos globales y acoplamientos innecesarios entre módulos.
-- Evaluar bibliotecas de terceros por su costo de reversión, no solo por velocidad inicial.
-- Diseñar pruebas unitarias con dependencias mínimas como regla de diseño.
+- Diseñar una bala trazadora para validar temprano el flujo crítico del sistema.
+- Usar prototipos explícitamente desechables para explorar decisiones de arquitectura o rendimiento.
+- Definir estimaciones con rango, supuestos y nivel de exactitud solicitado por quien decide.
 
 ## Libros relacionados
 

@@ -78,8 +78,9 @@ These notes ground a simple but demanding idea: writing software well is not onl
 ### Chapter 2 - A pragmatic approach
 
 - Orthogonality makes it easier to change one component without unintended side effects.
-- Unit tests reveal weak modularity when they require too many system dependencies.
-- Technical decisions should be reversible so the architecture can adapt to change.
+- Tracer bullets validate end-to-end integration early and reduce technical uncertainty.
+- Prototypes are useful for exploring architecture, performance, or UX, but they must be explicitly disposable.
+- In estimation, align on the required level of accuracy before committing to a date.
 
 ## Favorite ideas
 
@@ -101,8 +102,9 @@ These notes ground a simple but demanding idea: writing software well is not onl
 ### Chapter 2 - A pragmatic approach
 
 - Avoid global data and unnecessary coupling between modules.
-- Evaluate third-party libraries by reversal cost, not only initial speed.
-- Design unit tests with minimal dependencies as a design rule.
+- Design a tracer bullet to validate the system's critical flow early.
+- Use explicitly disposable prototypes to explore architecture or performance decisions.
+- Define estimates with range, assumptions, and the accuracy level requested by decision-makers.
 
 ## Related books
 
