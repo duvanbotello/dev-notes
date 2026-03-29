@@ -2,7 +2,7 @@
 
 [![Idioma](https://img.shields.io/badge/Idioma-Español-1f6feb)](README.es.md)
 [![English](https://img.shields.io/badge/EN-Disponible-0e8a16)](README.md)
-[![Capítulos](https://img.shields.io/badge/Capítulos-5-f9a825)](#capítulos)
+[![Capítulos](https://img.shields.io/badge/Capítulos-6-f9a825)](#capítulos)
 [![Estado](https://img.shields.io/badge/Estado-Leyendo-6f42c1)](#metadatos)
 
 ## Portal de idioma
@@ -43,6 +43,7 @@ Elige cómo quieres leer este libro:
 | 02 | Un enfoque pragmático | [Abrir](chapters/ES/02-un-enfoque-pragmatico.es.md) | [Open](chapters/EN/02-a-pragmatic-approach.md) |
 | 04 | Paranoia pragmática | [Abrir](chapters/ES/04-paranoia-pragmatica.es.md) | [Open](chapters/EN/04-pragmatic-paranoia.md) |
 | 05 | Doblar o romper | [Abrir](chapters/ES/05-doblar-o-romper.es.md) | [Open](chapters/EN/05-bend-or-break.md) |
+| 06 | Concurrencia | [Abrir](chapters/ES/06-concurrencia.es.md) | [Open](chapters/EN/06-concurrency.md) |
 
 </details>
 
@@ -65,6 +66,7 @@ Estas notas aterrizan una idea simple pero exigente: programar bien no es solo e
 - [02 - Un enfoque pragmático](chapters/ES/02-un-enfoque-pragmatico.es.md) | [EN](chapters/EN/02-a-pragmatic-approach.md)
 - [04 - Paranoia pragmática](chapters/ES/04-paranoia-pragmatica.es.md) | [EN](chapters/EN/04-pragmatic-paranoia.md)
 - [05 - Doblar o romper](chapters/ES/05-doblar-o-romper.es.md) | [EN](chapters/EN/05-bend-or-break.md)
+- [06 - Concurrencia](chapters/ES/06-concurrencia.es.md) | [EN](chapters/EN/06-concurrency.md)
 
 ## Aprendizajes clave
 
@@ -101,6 +103,14 @@ Estas notas aterrizan una idea simple pero exigente: programar bien no es solo e
 - Datos globales y jerarquías de herencia profundas suelen aumentar fragilidad técnica.
 - Eventos, FSM y pub/sub ayudan a desacoplar flujos asíncronos y facilitan la evolución.
 - Interfaces, delegación, mixins y traits son alternativas útiles para evitar "impuestos" de herencia.
+
+### Capítulo 6 - Concurrencia
+
+- La concurrencia organiza software para sistemas asíncronos; el paralelismo depende del hardware.
+- El problema principal no es crear hilos, sino controlar estado compartido y coordinación temporal.
+- El acoplamiento temporal innecesario vuelve el diseño más rígido y difícil de evolucionar.
+- Actores, procesos, colas y pub/sub son estrategias válidas para reducir dependencia directa entre componentes.
+- La calidad en concurrencia exige pruebas orientadas a carreras, bloqueos y escenarios de carga.
 
 ## Ideas favoritas
 
@@ -141,6 +151,14 @@ Estas notas aterrizan una idea simple pero exigente: programar bien no es solo e
 - Modelar flujos complejos con máquinas de estado finitas para controlar transiciones.
 - Implementar pub/sub en eventos asíncronos donde se necesite extender consumidores sin impacto alto.
 - Revisar subclases existentes para migrar casos adecuados hacia composición o delegación.
+
+### Capítulo 6 - Concurrencia
+
+- Identificar flujos con acoplamiento temporal y separar tareas que pueden progresar de forma independiente.
+- Reducir estado mutable compartido en módulos críticos antes de escalar la concurrencia.
+- Definir políticas explícitas de sincronización para secciones críticas y accesos multi-recurso.
+- Introducir mensajería asíncrona donde ayude a desacoplar productores y consumidores.
+- Crear pruebas de estrés para detectar condiciones de carrera, interbloqueos e inanición.
 
 ## Libros relacionados
 

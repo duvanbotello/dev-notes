@@ -72,7 +72,7 @@ Este capítulo me refuerza una regla de diseño: cada decisión que simplifica h
 **Navegación**
 
 - Capítulo anterior: [04 - Paranoia pragmática](04-paranoia-pragmatica.es.md)
-- Capítulo siguiente: Pendiente
+- Capítulo siguiente: [06 - Concurrencia](06-concurrencia.es.md)
 - Notas relacionadas: [README del libro](../../README.es.md), [Versión en inglés](../EN/05-bend-or-break.md)
 
 ## Aviso legal

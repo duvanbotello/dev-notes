@@ -2,7 +2,7 @@
 
 [![Language](https://img.shields.io/badge/Language-English-1f6feb)](README.md)
 [![Español](https://img.shields.io/badge/ES-Disponible-0e8a16)](README.es.md)
-[![Chapters](https://img.shields.io/badge/Chapters-5-f9a825)](#chapters)
+[![Chapters](https://img.shields.io/badge/Chapters-6-f9a825)](#chapters)
 [![Status](https://img.shields.io/badge/Status-Reading-6f42c1)](#metadata)
 
 ## Language portal
@@ -43,6 +43,7 @@ Choose how you want to read this book:
 | 02 | A pragmatic approach | [Open](chapters/EN/02-a-pragmatic-approach.md) | [Abrir](chapters/ES/02-un-enfoque-pragmatico.es.md) |
 | 04 | Pragmatic paranoia | [Open](chapters/EN/04-pragmatic-paranoia.md) | [Abrir](chapters/ES/04-paranoia-pragmatica.es.md) |
 | 05 | Bend, or break | [Open](chapters/EN/05-bend-or-break.md) | [Abrir](chapters/ES/05-doblar-o-romper.es.md) |
+| 06 | Concurrency | [Open](chapters/EN/06-concurrency.md) | [Abrir](chapters/ES/06-concurrencia.es.md) |
 
 </details>
 
@@ -65,6 +66,7 @@ These notes ground a simple but demanding idea: writing software well is not onl
 - [02 - A pragmatic approach](chapters/EN/02-a-pragmatic-approach.md) | [ES](chapters/ES/02-un-enfoque-pragmatico.es.md)
 - [04 - Pragmatic paranoia](chapters/EN/04-pragmatic-paranoia.md) | [ES](chapters/ES/04-paranoia-pragmatica.es.md)
 - [05 - Bend, or break](chapters/EN/05-bend-or-break.md) | [ES](chapters/ES/05-doblar-o-romper.es.md)
+- [06 - Concurrency](chapters/EN/06-concurrency.md) | [ES](chapters/ES/06-concurrencia.es.md)
 
 ## Key takeaways
 
@@ -101,6 +103,14 @@ These notes ground a simple but demanding idea: writing software well is not onl
 - Global data and deep inheritance hierarchies often increase technical fragility.
 - Events, FSMs, and pub/sub help decouple async flows and support safer evolution.
 - Interfaces, delegation, mixins, and traits are useful alternatives to avoid inheritance "taxes."
+
+### Chapter 6 - Concurrency
+
+- Concurrency structures software for asynchronous systems; parallelism depends on hardware.
+- The main challenge is not creating threads, but controlling shared state and temporal coordination.
+- Unnecessary temporal coupling makes design rigid and harder to evolve.
+- Actors, processes, queues, and pub/sub are valid strategies to reduce direct component dependency.
+- Concurrency quality requires tests focused on races, deadlocks, and load behavior.
 
 ## Favorite ideas
 
@@ -141,6 +151,14 @@ These notes ground a simple but demanding idea: writing software well is not onl
 - Model complex flows with finite state machines to control transitions.
 - Implement pub/sub for async events where consumers need low-impact extensibility.
 - Review existing subclasses and migrate suitable cases toward composition or delegation.
+
+### Chapter 6 - Concurrency
+
+- Identify temporally coupled flows and separate tasks that can progress independently.
+- Reduce shared mutable state in critical modules before scaling concurrency.
+- Define explicit synchronization policies for critical sections and multi-resource access.
+- Introduce async messaging where it helps decouple producers and consumers.
+- Build stress tests to detect race conditions, deadlocks, and starvation.
 
 ## Related books
 

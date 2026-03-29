@@ -42,9 +42,9 @@ Choose how you want to read this repository:
 
 > This section shows **only the latest 3 updates** in the repository. It must be refreshed whenever content is added or updated in any book.
 
-- New chapter: [The Pragmatic Programmer - 05 Bend, or break](books/the-pragmatic-programmer/chapters/EN/05-bend-or-break.md)
+- New chapter: [The Pragmatic Programmer - 06 Concurrency](books/the-pragmatic-programmer/chapters/EN/06-concurrency.md)
 - Book update: [The Pragmatic Programmer](books/the-pragmatic-programmer/README.md)
-- Chapter update: [The Pragmatic Programmer - 04 Pragmatic paranoia](books/the-pragmatic-programmer/chapters/EN/04-pragmatic-paranoia.md)
+- Chapter update: [The Pragmatic Programmer - 05 Bend, or break](books/the-pragmatic-programmer/chapters/EN/05-bend-or-break.md)
 
 ## Why this repository exists
 
@@ -72,7 +72,7 @@ This repository exists to turn reading notes into a practical engineering handbo
 | Book | Status | Chapters | English | Spanish |
 |---|---|---:|---|---|
 | `software-engineering-at-google` | reading | 5 | [Open](books/software-engineering-at-google/README.md) | [Abrir](books/software-engineering-at-google/README.es.md) |
-| `the-pragmatic-programmer` | reading | 5 | [Open](books/the-pragmatic-programmer/README.md) | [Abrir](books/the-pragmatic-programmer/README.es.md) |
+| `the-pragmatic-programmer` | reading | 6 | [Open](books/the-pragmatic-programmer/README.md) | [Abrir](books/the-pragmatic-programmer/README.es.md) |
 
 <details>
 <summary><strong>Global quick map (expand/collapse)</strong></summary>
@@ -89,6 +89,7 @@ This repository exists to turn reading notes into a practical engineering handbo
 | The Pragmatic Programmer | 02 - A pragmatic approach | [Open](books/the-pragmatic-programmer/chapters/EN/02-a-pragmatic-approach.md) | [Abrir](books/the-pragmatic-programmer/chapters/ES/02-un-enfoque-pragmatico.es.md) |
 | The Pragmatic Programmer | 04 - Pragmatic paranoia | [Open](books/the-pragmatic-programmer/chapters/EN/04-pragmatic-paranoia.md) | [Abrir](books/the-pragmatic-programmer/chapters/ES/04-paranoia-pragmatica.es.md) |
 | The Pragmatic Programmer | 05 - Bend, or break | [Open](books/the-pragmatic-programmer/chapters/EN/05-bend-or-break.md) | [Abrir](books/the-pragmatic-programmer/chapters/ES/05-doblar-o-romper.es.md) |
+| The Pragmatic Programmer | 06 - Concurrency | [Open](books/the-pragmatic-programmer/chapters/EN/06-concurrency.md) | [Abrir](books/the-pragmatic-programmer/chapters/ES/06-concurrencia.es.md) |
 
 </details>
 
@@ -135,13 +136,15 @@ Each chapter includes top and bottom navigation, language switching, and cross-l
 │           │   ├── 01-a-pragmatic-philosophy.md
 │           │   ├── 02-a-pragmatic-approach.md
 │           │   ├── 04-pragmatic-paranoia.md
-│           │   └── 05-bend-or-break.md
+│           │   ├── 05-bend-or-break.md
+│           │   └── 06-concurrency.md
 │           └── ES/
 │               ├── 00-prefacio.es.md
 │               ├── 01-una-filosofia-pragmatica.es.md
 │               ├── 02-un-enfoque-pragmatico.es.md
 │               ├── 04-paranoia-pragmatica.es.md
-│               └── 05-doblar-o-romper.es.md
+│               ├── 05-doblar-o-romper.es.md
+│               └── 06-concurrencia.es.md
 └── templates/
     ├── book-template.es.md
     ├── book-template.md

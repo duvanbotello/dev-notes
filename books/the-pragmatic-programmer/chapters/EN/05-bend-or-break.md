@@ -72,7 +72,7 @@ This chapter reinforces one design rule for me: every decision that simplifies t
 **Navigation**
 
 - Previous chapter: [04 - Pragmatic paranoia](04-pragmatic-paranoia.md)
-- Next chapter: Planned
+- Next chapter: [06 - Concurrency](06-concurrency.md)
 - Related notes: [Book README](../../README.md), [Spanish version](../ES/05-doblar-o-romper.es.md)
 
 ## Disclaimer
