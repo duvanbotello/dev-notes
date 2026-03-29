@@ -71,7 +71,7 @@ This chapter grounds a concrete discipline for me: quality does not come from tr
 **Navigation**
 
 - Previous chapter: [02 - A pragmatic approach](02-a-pragmatic-approach.md)
-- Next chapter: Planned
+- Next chapter: [05 - Bend, or break](05-bend-or-break.md)
 - Related notes: [Book README](../../README.md), [Spanish version](../ES/04-paranoia-pragmatica.es.md)
 
 ## Disclaimer

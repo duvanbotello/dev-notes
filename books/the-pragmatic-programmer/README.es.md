@@ -2,7 +2,7 @@
 
 [![Idioma](https://img.shields.io/badge/Idioma-Español-1f6feb)](README.es.md)
 [![English](https://img.shields.io/badge/EN-Disponible-0e8a16)](README.md)
-[![Capítulos](https://img.shields.io/badge/Capítulos-4-f9a825)](#capítulos)
+[![Capítulos](https://img.shields.io/badge/Capítulos-5-f9a825)](#capítulos)
 [![Estado](https://img.shields.io/badge/Estado-Leyendo-6f42c1)](#metadatos)
 
 ## Portal de idioma
@@ -42,6 +42,7 @@ Elige cómo quieres leer este libro:
 | 01 | Una filosofía pragmática | [Abrir](chapters/ES/01-una-filosofia-pragmatica.es.md) | [Open](chapters/EN/01-a-pragmatic-philosophy.md) |
 | 02 | Un enfoque pragmático | [Abrir](chapters/ES/02-un-enfoque-pragmatico.es.md) | [Open](chapters/EN/02-a-pragmatic-approach.md) |
 | 04 | Paranoia pragmática | [Abrir](chapters/ES/04-paranoia-pragmatica.es.md) | [Open](chapters/EN/04-pragmatic-paranoia.md) |
+| 05 | Doblar o romper | [Abrir](chapters/ES/05-doblar-o-romper.es.md) | [Open](chapters/EN/05-bend-or-break.md) |
 
 </details>
 
@@ -63,6 +64,7 @@ Estas notas aterrizan una idea simple pero exigente: programar bien no es solo e
 - [01 - Una filosofía pragmática](chapters/ES/01-una-filosofia-pragmatica.es.md) | [EN](chapters/EN/01-a-pragmatic-philosophy.md)
 - [02 - Un enfoque pragmático](chapters/ES/02-un-enfoque-pragmatico.es.md) | [EN](chapters/EN/02-a-pragmatic-approach.md)
 - [04 - Paranoia pragmática](chapters/ES/04-paranoia-pragmatica.es.md) | [EN](chapters/EN/04-pragmatic-paranoia.md)
+- [05 - Doblar o romper](chapters/ES/05-doblar-o-romper.es.md) | [EN](chapters/EN/05-bend-or-break.md)
 
 ## Aprendizajes clave
 
@@ -91,6 +93,14 @@ Estas notas aterrizan una idea simple pero exigente: programar bien no es solo e
 - Ante estados imposibles, fallar rápido protege más que continuar con corrupción silenciosa.
 - La combinación de contratos, aserciones y validaciones continuas reduce fallos evitables.
 - Una tarea es demasiado grande cuando obliga a adivinar en lugar de validar por pasos.
+
+### Capítulo 5 - Doblar o romper
+
+- El acoplamiento innecesario bloquea cambios y acelera la obsolescencia del código.
+- Para software flexible, cada componente debe depender de la menor cantidad posible de otros.
+- Datos globales y jerarquías de herencia profundas suelen aumentar fragilidad técnica.
+- Eventos, FSM y pub/sub ayudan a desacoplar flujos asíncronos y facilitan la evolución.
+- Interfaces, delegación, mixins y traits son alternativas útiles para evitar "impuestos" de herencia.
 
 ## Ideas favoritas
 
@@ -123,6 +133,14 @@ Estas notas aterrizan una idea simple pero exigente: programar bien no es solo e
 - Configurar fallo rápido cuando aparezcan estados imposibles.
 - Revisar asignación y liberación de recursos para asegurar simetría y limpieza.
 - Dividir tareas grandes en incrementos cortos con feedback temprano.
+
+### Capítulo 5 - Doblar o romper
+
+- Auditar acoplamientos fuertes y separar responsabilidades que hoy cambian en bloque.
+- Encapsular datos globales detrás de APIs o interfaces con límites explícitos.
+- Modelar flujos complejos con máquinas de estado finitas para controlar transiciones.
+- Implementar pub/sub en eventos asíncronos donde se necesite extender consumidores sin impacto alto.
+- Revisar subclases existentes para migrar casos adecuados hacia composición o delegación.
 
 ## Libros relacionados
 

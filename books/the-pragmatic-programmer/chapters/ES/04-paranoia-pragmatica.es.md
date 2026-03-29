@@ -71,7 +71,7 @@ Este capítulo me aterriza una disciplina concreta: la calidad no nace de confia
 **Navegación**
 
 - Capítulo anterior: [02 - Un enfoque pragmático](02-un-enfoque-pragmatico.es.md)
-- Capítulo siguiente: Pendiente
+- Capítulo siguiente: [05 - Doblar o romper](05-doblar-o-romper.es.md)
 - Notas relacionadas: [README del libro](../../README.es.md), [Versión en inglés](../EN/04-pragmatic-paranoia.md)
 
 ## Aviso legal

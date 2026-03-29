@@ -275,6 +275,17 @@ When creating new content:
 
 ---
 
+## Git Commit Identity Preference
+
+For this repository, when the user asks to create/send commits, use this commit identity:
+
+* Name: `duvan botello`
+* Email: `duvanbotello1008@gmail.com`
+
+If git config is not modified, pass this identity directly in commit commands (for example with command-level git options) so commits are consistently attributed.
+
+---
+
 ## Final Rule
 
 If unsure:

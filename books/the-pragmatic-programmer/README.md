@@ -2,7 +2,7 @@
 
 [![Language](https://img.shields.io/badge/Language-English-1f6feb)](README.md)
 [![Español](https://img.shields.io/badge/ES-Disponible-0e8a16)](README.es.md)
-[![Chapters](https://img.shields.io/badge/Chapters-4-f9a825)](#chapters)
+[![Chapters](https://img.shields.io/badge/Chapters-5-f9a825)](#chapters)
 [![Status](https://img.shields.io/badge/Status-Reading-6f42c1)](#metadata)
 
 ## Language portal
@@ -42,6 +42,7 @@ Choose how you want to read this book:
 | 01 | A pragmatic philosophy | [Open](chapters/EN/01-a-pragmatic-philosophy.md) | [Abrir](chapters/ES/01-una-filosofia-pragmatica.es.md) |
 | 02 | A pragmatic approach | [Open](chapters/EN/02-a-pragmatic-approach.md) | [Abrir](chapters/ES/02-un-enfoque-pragmatico.es.md) |
 | 04 | Pragmatic paranoia | [Open](chapters/EN/04-pragmatic-paranoia.md) | [Abrir](chapters/ES/04-paranoia-pragmatica.es.md) |
+| 05 | Bend, or break | [Open](chapters/EN/05-bend-or-break.md) | [Abrir](chapters/ES/05-doblar-o-romper.es.md) |
 
 </details>
 
@@ -63,6 +64,7 @@ These notes ground a simple but demanding idea: writing software well is not onl
 - [01 - A pragmatic philosophy](chapters/EN/01-a-pragmatic-philosophy.md) | [ES](chapters/ES/01-una-filosofia-pragmatica.es.md)
 - [02 - A pragmatic approach](chapters/EN/02-a-pragmatic-approach.md) | [ES](chapters/ES/02-un-enfoque-pragmatico.es.md)
 - [04 - Pragmatic paranoia](chapters/EN/04-pragmatic-paranoia.md) | [ES](chapters/ES/04-paranoia-pragmatica.es.md)
+- [05 - Bend, or break](chapters/EN/05-bend-or-break.md) | [ES](chapters/ES/05-doblar-o-romper.es.md)
 
 ## Key takeaways
 
@@ -91,6 +93,14 @@ These notes ground a simple but demanding idea: writing software well is not onl
 - On impossible states, failing fast is safer than continuing with silent corruption.
 - The combination of contracts, assertions, and continuous checks reduces avoidable failures.
 - A task is too large when it depends on guessing instead of stepwise validation.
+
+### Chapter 5 - Bend, or break
+
+- Unnecessary coupling blocks change and makes code obsolete faster.
+- For flexible software, each component should depend on as few others as possible.
+- Global data and deep inheritance hierarchies often increase technical fragility.
+- Events, FSMs, and pub/sub help decouple async flows and support safer evolution.
+- Interfaces, delegation, mixins, and traits are useful alternatives to avoid inheritance "taxes."
 
 ## Favorite ideas
 
@@ -123,6 +133,14 @@ These notes ground a simple but demanding idea: writing software well is not onl
 - Configure fail-fast behavior when impossible states appear.
 - Review resource allocation/release flow to guarantee symmetry and cleanup.
 - Break large tasks into short increments with early feedback.
+
+### Chapter 5 - Bend, or break
+
+- Audit strong coupling points and separate responsibilities that currently change as a block.
+- Encapsulate global data behind APIs or interfaces with explicit boundaries.
+- Model complex flows with finite state machines to control transitions.
+- Implement pub/sub for async events where consumers need low-impact extensibility.
+- Review existing subclasses and migrate suitable cases toward composition or delegation.
 
 ## Related books
 
