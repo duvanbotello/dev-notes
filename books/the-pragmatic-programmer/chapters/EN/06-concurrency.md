@@ -72,7 +72,7 @@ I take away that "doing concurrency" does not mean creating threads by default. 
 **Navigation**
 
 - Previous chapter: [05 - Bend, or break](05-bend-or-break.md)
-- Next chapter: Planned
+- Next chapter: [07 - While you are coding](07-while-you-are-coding.md)
 - Related notes: [Book README](../../README.md), [Spanish version](../ES/06-concurrencia.es.md)
 
 ## Disclaimer

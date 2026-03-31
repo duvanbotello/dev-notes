@@ -72,7 +72,7 @@ Me queda claro que "hacer concurrencia" no significa crear hilos por crear. El v
 **Navegación**
 
 - Capítulo anterior: [05 - Doblar o romper](05-doblar-o-romper.es.md)
-- Capítulo siguiente: Pendiente
+- Capítulo siguiente: [07 - Mientras escribe código](07-mientras-escribe-codigo.es.md)
 - Notas relacionadas: [README del libro](../../README.es.md), [Versión en inglés](../EN/06-concurrency.md)
 
 ## Aviso legal

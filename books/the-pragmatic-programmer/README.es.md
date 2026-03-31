@@ -2,7 +2,7 @@
 
 [![Idioma](https://img.shields.io/badge/Idioma-Español-1f6feb)](README.es.md)
 [![English](https://img.shields.io/badge/EN-Disponible-0e8a16)](README.md)
-[![Capítulos](https://img.shields.io/badge/Capítulos-6-f9a825)](#capítulos)
+[![Capítulos](https://img.shields.io/badge/Capítulos-7-f9a825)](#capítulos)
 [![Estado](https://img.shields.io/badge/Estado-Leyendo-6f42c1)](#metadatos)
 
 ## Portal de idioma
@@ -44,6 +44,7 @@ Elige cómo quieres leer este libro:
 | 04 | Paranoia pragmática | [Abrir](chapters/ES/04-paranoia-pragmatica.es.md) | [Open](chapters/EN/04-pragmatic-paranoia.md) |
 | 05 | Doblar o romper | [Abrir](chapters/ES/05-doblar-o-romper.es.md) | [Open](chapters/EN/05-bend-or-break.md) |
 | 06 | Concurrencia | [Abrir](chapters/ES/06-concurrencia.es.md) | [Open](chapters/EN/06-concurrency.md) |
+| 07 | Mientras escribe código | [Abrir](chapters/ES/07-mientras-escribe-codigo.es.md) | [Open](chapters/EN/07-while-you-are-coding.md) |
 
 </details>
 
@@ -67,6 +68,7 @@ Estas notas aterrizan una idea simple pero exigente: programar bien no es solo e
 - [04 - Paranoia pragmática](chapters/ES/04-paranoia-pragmatica.es.md) | [EN](chapters/EN/04-pragmatic-paranoia.md)
 - [05 - Doblar o romper](chapters/ES/05-doblar-o-romper.es.md) | [EN](chapters/EN/05-bend-or-break.md)
 - [06 - Concurrencia](chapters/ES/06-concurrencia.es.md) | [EN](chapters/EN/06-concurrency.md)
+- [07 - Mientras escribe código](chapters/ES/07-mientras-escribe-codigo.es.md) | [EN](chapters/EN/07-while-you-are-coding.md)
 
 ## Aprendizajes clave
 
@@ -111,6 +113,14 @@ Estas notas aterrizan una idea simple pero exigente: programar bien no es solo e
 - El acoplamiento temporal innecesario vuelve el diseño más rígido y difícil de evolucionar.
 - Actores, procesos, colas y pub/sub son estrategias válidas para reducir dependencia directa entre componentes.
 - La calidad en concurrencia exige pruebas orientadas a carreras, bloqueos y escenarios de carga.
+
+### Capítulo 7 - Mientras escribe código
+
+- Programar deliberadamente evita depender de casualidades y mejora el criterio técnico.
+- Refactorizar en cambios pequeños, guiados por pruebas, mantiene el código flexible y seguro.
+- Las pruebas no solo detectan fallos: entregan feedback temprano sobre diseño y comportamiento.
+- La seguridad debe incluirse desde el desarrollo: mínima superficie de ataque, mínimo privilegio y cifrado de datos sensibles.
+- Poner buenos nombres y corregirlos a tiempo mejora comprensión, mantenimiento y evolución del sistema.
 
 ## Ideas favoritas
 
@@ -159,6 +169,14 @@ Estas notas aterrizan una idea simple pero exigente: programar bien no es solo e
 - Definir políticas explícitas de sincronización para secciones críticas y accesos multi-recurso.
 - Introducir mensajería asíncrona donde ayude a desacoplar productores y consumidores.
 - Crear pruebas de estrés para detectar condiciones de carrera, interbloqueos e inanición.
+
+### Capítulo 7 - Mientras escribe código
+
+- Convertir dudas de implementación en pruebas y experimentos antes de escalar complejidad.
+- Medir complejidad algorítmica en flujos críticos y optimizar solo ante cuellos de botella confirmados.
+- Incorporar refactorizaciones pequeñas y frecuentes en el ciclo normal de entrega.
+- Fortalecer suite de pruebas unitarias, de contrato y de casos borde para evitar que el usuario final "pruebe" por nosotros.
+- Auditar rutas de datos sensibles, secretos y niveles de privilegio en componentes críticos.
 
 ## Libros relacionados
 
