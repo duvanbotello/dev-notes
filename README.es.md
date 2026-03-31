@@ -43,9 +43,9 @@ Elige cómo quieres leer este repositorio:
 
 > Esta sección muestra **solo las 3 últimas novedades** del repositorio. Debe actualizarse cada vez que se agregue o modifique contenido en cualquier libro.
 
-- Nuevo índice de conceptos: [Concepts index (ES)](docs/concepts-index.es.md)
-- Nuevas rutas de lectura: [Reading paths (ES)](docs/reading-paths.es.md)
-- Actualización de libros: [The Pragmatic Programmer](books/the-pragmatic-programmer/README.es.md) y [Software Engineering at Google](books/software-engineering-at-google/README.es.md)
+- Nuevo capítulo: [The Pragmatic Programmer - 08 Antes del proyecto](books/the-pragmatic-programmer/chapters/ES/08-antes-del-proyecto.es.md)
+- Índice de conceptos actualizado: [Concepts index (ES)](docs/concepts-index.es.md)
+- Rutas de lectura actualizadas: [Reading paths (ES)](docs/reading-paths.es.md)
 
 ## Por qué existe este repositorio
 
@@ -78,7 +78,7 @@ Este repositorio existe para convertir notas de lectura en un manual práctico d
 | Libro | Estado | Capítulos | Español | English |
 |---|---|---:|---|---|
 | `software-engineering-at-google` | leyendo | 5 | [Abrir](books/software-engineering-at-google/README.es.md) | [Open](books/software-engineering-at-google/README.md) |
-| `the-pragmatic-programmer` | leyendo | 7 | [Abrir](books/the-pragmatic-programmer/README.es.md) | [Open](books/the-pragmatic-programmer/README.md) |
+| `the-pragmatic-programmer` | leyendo | 8 | [Abrir](books/the-pragmatic-programmer/README.es.md) | [Open](books/the-pragmatic-programmer/README.md) |
 
 <details>
 <summary><strong>Mapa rápido global (abrir/cerrar)</strong></summary>
@@ -97,6 +97,7 @@ Este repositorio existe para convertir notas de lectura en un manual práctico d
 | The Pragmatic Programmer | 05 - Doblar o romper | [Abrir](books/the-pragmatic-programmer/chapters/ES/05-doblar-o-romper.es.md) | [Open](books/the-pragmatic-programmer/chapters/EN/05-bend-or-break.md) |
 | The Pragmatic Programmer | 06 - Concurrencia | [Abrir](books/the-pragmatic-programmer/chapters/ES/06-concurrencia.es.md) | [Open](books/the-pragmatic-programmer/chapters/EN/06-concurrency.md) |
 | The Pragmatic Programmer | 07 - Mientras escribe código | [Abrir](books/the-pragmatic-programmer/chapters/ES/07-mientras-escribe-codigo.es.md) | [Open](books/the-pragmatic-programmer/chapters/EN/07-while-you-are-coding.md) |
+| The Pragmatic Programmer | 08 - Antes del proyecto | [Abrir](books/the-pragmatic-programmer/chapters/ES/08-antes-del-proyecto.es.md) | [Open](books/the-pragmatic-programmer/chapters/EN/08-before-the-project.md) |
 
 </details>
 
@@ -145,7 +146,8 @@ Cada capítulo incluye navegación superior e inferior, cambio de idioma y enlac
 │           │   ├── 04-pragmatic-paranoia.md
 │           │   ├── 05-bend-or-break.md
 │           │   ├── 06-concurrency.md
-│           │   └── 07-while-you-are-coding.md
+│           │   ├── 07-while-you-are-coding.md
+│           │   └── 08-before-the-project.md
 │           └── ES/
 │               ├── 00-prefacio.es.md
 │               ├── 01-una-filosofia-pragmatica.es.md
@@ -153,7 +155,8 @@ Cada capítulo incluye navegación superior e inferior, cambio de idioma y enlac
 │               ├── 04-paranoia-pragmatica.es.md
 │               ├── 05-doblar-o-romper.es.md
 │               ├── 06-concurrencia.es.md
-│               └── 07-mientras-escribe-codigo.es.md
+│               ├── 07-mientras-escribe-codigo.es.md
+│               └── 08-antes-del-proyecto.es.md
 ├── docs/
 │   ├── concepts-index.es.md
 │   ├── concepts-index.md

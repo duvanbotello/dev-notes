@@ -2,7 +2,7 @@
 
 [![Idioma](https://img.shields.io/badge/Idioma-Español-1f6feb)](README.es.md)
 [![English](https://img.shields.io/badge/EN-Disponible-0e8a16)](README.md)
-[![Capítulos](https://img.shields.io/badge/Capítulos-7-f9a825)](#capítulos)
+[![Capítulos](https://img.shields.io/badge/Capítulos-8-f9a825)](#capítulos)
 [![Estado](https://img.shields.io/badge/Estado-Leyendo-6f42c1)](#metadatos)
 
 ## Portal de idioma
@@ -46,6 +46,7 @@ Elige cómo quieres leer este libro:
 | 05 | Doblar o romper | [Abrir](chapters/ES/05-doblar-o-romper.es.md) | [Open](chapters/EN/05-bend-or-break.md) |
 | 06 | Concurrencia | [Abrir](chapters/ES/06-concurrencia.es.md) | [Open](chapters/EN/06-concurrency.md) |
 | 07 | Mientras escribe código | [Abrir](chapters/ES/07-mientras-escribe-codigo.es.md) | [Open](chapters/EN/07-while-you-are-coding.md) |
+| 08 | Antes del proyecto | [Abrir](chapters/ES/08-antes-del-proyecto.es.md) | [Open](chapters/EN/08-before-the-project.md) |
 
 </details>
 
@@ -70,6 +71,7 @@ Estas notas aterrizan una idea simple pero exigente: programar bien no es solo e
 - [05 - Doblar o romper](chapters/ES/05-doblar-o-romper.es.md) | [EN](chapters/EN/05-bend-or-break.md)
 - [06 - Concurrencia](chapters/ES/06-concurrencia.es.md) | [EN](chapters/EN/06-concurrency.md)
 - [07 - Mientras escribe código](chapters/ES/07-mientras-escribe-codigo.es.md) | [EN](chapters/EN/07-while-you-are-coding.md)
+- [08 - Antes del proyecto](chapters/ES/08-antes-del-proyecto.es.md) | [EN](chapters/EN/08-before-the-project.md)
 
 ## Explorar por conceptos y rutas
 
@@ -128,6 +130,14 @@ Estas notas aterrizan una idea simple pero exigente: programar bien no es solo e
 - La seguridad debe incluirse desde el desarrollo: mínima superficie de ataque, mínimo privilegio y cifrado de datos sensibles.
 - Poner buenos nombres y corregirlos a tiempo mejora comprensión, mantenimiento y evolución del sistema.
 
+### Capítulo 8 - Antes del proyecto
+
+- Los requisitos se descubren en conversación continua; no llegan completos ni estables desde el inicio.
+- El trabajo del programador incluye ayudar al cliente a entender implicaciones, límites y trade-offs.
+- Las iteraciones cortas con feedback directo reducen errores de interpretación y mejoran decisiones.
+- Los requisitos describen necesidades; no deben convertirse prematuramente en diseño, arquitectura o UI.
+- La agilidad real consiste en responder al cambio, apoyada por un diseño que facilite ajustes.
+
 ## Ideas favoritas
 
 - Enfocarse en soluciones, no en excusas.
@@ -183,6 +193,14 @@ Estas notas aterrizan una idea simple pero exigente: programar bien no es solo e
 - Incorporar refactorizaciones pequeñas y frecuentes en el ciclo normal de entrega.
 - Fortalecer suite de pruebas unitarias, de contrato y de casos borde para evitar que el usuario final "pruebe" por nosotros.
 - Auditar rutas de datos sensibles, secretos y niveles de privilegio en componentes críticos.
+
+### Capítulo 8 - Antes del proyecto
+
+- Estructurar levantamiento de requisitos como sesiones de descubrimiento con preguntas sobre consecuencias y contexto.
+- Establecer iteraciones cortas con demostraciones funcionales para obtener feedback temprano del cliente.
+- Mantener un glosario vivo del dominio para alinear lenguaje entre negocio y equipo técnico.
+- Separar políticas cambiantes de la lógica central para adaptarlas sin despliegues de alto riesgo.
+- Incorporar trabajo en pares o en grupo para debatir soluciones y aumentar resiliencia del diseño.
 
 ## Libros relacionados
 

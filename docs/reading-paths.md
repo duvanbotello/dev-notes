@@ -25,6 +25,7 @@ Each path groups chapters from different books around one practical goal. You ca
 - **Goal:** reduce coupling, improve changeability, and avoid structural debt.
 - **Suggested order:**
   - [The Pragmatic Programmer - 02 A pragmatic approach](../books/the-pragmatic-programmer/chapters/EN/02-a-pragmatic-approach.md)
+  - [The Pragmatic Programmer - 08 Before the project](../books/the-pragmatic-programmer/chapters/EN/08-before-the-project.md)
   - [The Pragmatic Programmer - 05 Bend, or break](../books/the-pragmatic-programmer/chapters/EN/05-bend-or-break.md)
   - [Software Engineering at Google - 01 What is software engineering?](../books/software-engineering-at-google/chapters/EN/01-introduction.md)
 - **Expected outcome:** more independent modules and lower-friction technical evolution.

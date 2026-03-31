@@ -25,6 +25,7 @@ Cada ruta agrupa capítulos de distintos libros según un objetivo práctico. Pu
 - **Objetivo:** reducir acoplamiento, mejorar capacidad de cambio y evitar deuda estructural.
 - **Orden sugerido:**
   - [The Pragmatic Programmer - 02 Un enfoque pragmático](../books/the-pragmatic-programmer/chapters/ES/02-un-enfoque-pragmatico.es.md)
+  - [The Pragmatic Programmer - 08 Antes del proyecto](../books/the-pragmatic-programmer/chapters/ES/08-antes-del-proyecto.es.md)
   - [The Pragmatic Programmer - 05 Doblar o romper](../books/the-pragmatic-programmer/chapters/ES/05-doblar-o-romper.es.md)
   - [Software Engineering at Google - 01 ¿Qué es la ingeniería de software?](../books/software-engineering-at-google/chapters/ES/01-introduction.es.md)
 - **Resultado esperado:** módulos más independientes y evolución técnica con menor fricción.

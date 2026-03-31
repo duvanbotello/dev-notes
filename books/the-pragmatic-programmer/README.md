@@ -2,7 +2,7 @@
 
 [![Language](https://img.shields.io/badge/Language-English-1f6feb)](README.md)
 [![Español](https://img.shields.io/badge/ES-Disponible-0e8a16)](README.es.md)
-[![Chapters](https://img.shields.io/badge/Chapters-7-f9a825)](#chapters)
+[![Chapters](https://img.shields.io/badge/Chapters-8-f9a825)](#chapters)
 [![Status](https://img.shields.io/badge/Status-Reading-6f42c1)](#metadata)
 
 ## Language portal
@@ -46,6 +46,7 @@ Choose how you want to read this book:
 | 05 | Bend, or break | [Open](chapters/EN/05-bend-or-break.md) | [Abrir](chapters/ES/05-doblar-o-romper.es.md) |
 | 06 | Concurrency | [Open](chapters/EN/06-concurrency.md) | [Abrir](chapters/ES/06-concurrencia.es.md) |
 | 07 | While you are coding | [Open](chapters/EN/07-while-you-are-coding.md) | [Abrir](chapters/ES/07-mientras-escribe-codigo.es.md) |
+| 08 | Before the project | [Open](chapters/EN/08-before-the-project.md) | [Abrir](chapters/ES/08-antes-del-proyecto.es.md) |
 
 </details>
 
@@ -70,6 +71,7 @@ These notes ground a simple but demanding idea: writing software well is not onl
 - [05 - Bend, or break](chapters/EN/05-bend-or-break.md) | [ES](chapters/ES/05-doblar-o-romper.es.md)
 - [06 - Concurrency](chapters/EN/06-concurrency.md) | [ES](chapters/ES/06-concurrencia.es.md)
 - [07 - While you are coding](chapters/EN/07-while-you-are-coding.md) | [ES](chapters/ES/07-mientras-escribe-codigo.es.md)
+- [08 - Before the project](chapters/EN/08-before-the-project.md) | [ES](chapters/ES/08-antes-del-proyecto.es.md)
 
 ## Explore by concepts and paths
 
@@ -128,6 +130,14 @@ These notes ground a simple but demanding idea: writing software well is not onl
 - Security must be built in during development: minimal attack surface, least privilege, and encrypted sensitive data.
 - Good naming and timely renaming improve clarity, maintenance, and long-term system evolution.
 
+### Chapter 8 - Before the project
+
+- Requirements are discovered through continuous conversation; they do not arrive complete or stable from day one.
+- The developer's job includes helping the client understand implications, limits, and trade-offs.
+- Short iterations with direct feedback reduce interpretation errors and improve decisions.
+- Requirements describe needs; they should not prematurely become design, architecture, or UI.
+- Real agility means responding to change, supported by design that makes adjustment easier.
+
 ## Favorite ideas
 
 - Focus on solutions, not excuses.
@@ -183,6 +193,14 @@ These notes ground a simple but demanding idea: writing software well is not onl
 - Integrate small and frequent refactors into the normal delivery cycle.
 - Strengthen unit, contract, and edge-case tests so end users are not your first testers.
 - Audit sensitive-data paths, secrets handling, and privilege levels in critical components.
+
+### Chapter 8 - Before the project
+
+- Structure requirements gathering as discovery sessions with questions about consequences and context.
+- Establish short iterations with functional demos to collect early client feedback.
+- Keep a living domain glossary to align language across business and engineering.
+- Separate changing policies from core logic to adapt without high-risk deployments.
+- Use pair or group work to debate solutions and improve design resilience.
 
 ## Related books
 

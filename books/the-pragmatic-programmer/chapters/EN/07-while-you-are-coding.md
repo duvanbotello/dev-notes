@@ -75,7 +75,7 @@ This chapter combines multiple disciplines into one operating principle: code wi
 **Navigation**
 
 - Previous chapter: [06 - Concurrency](06-concurrency.md)
-- Next chapter: Planned
+- Next chapter: [08 - Before the project](08-before-the-project.md)
 - Related notes: [Book README](../../README.md), [Spanish version](../ES/07-mientras-escribe-codigo.es.md)
 
 ## Disclaimer

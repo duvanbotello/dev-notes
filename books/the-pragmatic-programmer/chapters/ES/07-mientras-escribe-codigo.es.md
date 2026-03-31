@@ -75,7 +75,7 @@ Este capítulo une varias disciplinas en una sola idea operativa: escribir códi
 **Navegación**
 
 - Capítulo anterior: [06 - Concurrencia](06-concurrencia.es.md)
-- Capítulo siguiente: Pendiente
+- Capítulo siguiente: [08 - Antes del proyecto](08-antes-del-proyecto.es.md)
 - Notas relacionadas: [README del libro](../../README.es.md), [Versión en inglés](../EN/07-while-you-are-coding.md)
 
 ## Aviso legal

@@ -23,11 +23,18 @@ Este mapa te permite descubrir notas por tema, no solo por libro. Cada concepto 
 - [The Pragmatic Programmer - 02 Un enfoque pragmático](../books/the-pragmatic-programmer/chapters/ES/02-un-enfoque-pragmatico.es.md) | [EN](../books/the-pragmatic-programmer/chapters/EN/02-a-pragmatic-approach.md)
 - [The Pragmatic Programmer - 05 Doblar o romper](../books/the-pragmatic-programmer/chapters/ES/05-doblar-o-romper.es.md) | [EN](../books/the-pragmatic-programmer/chapters/EN/05-bend-or-break.md)
 - [The Pragmatic Programmer - 07 Mientras escribe código](../books/the-pragmatic-programmer/chapters/ES/07-mientras-escribe-codigo.es.md) | [EN](../books/the-pragmatic-programmer/chapters/EN/07-while-you-are-coding.md)
+- [The Pragmatic Programmer - 08 Antes del proyecto](../books/the-pragmatic-programmer/chapters/ES/08-antes-del-proyecto.es.md) | [EN](../books/the-pragmatic-programmer/chapters/EN/08-before-the-project.md)
+
+### Requisitos y descubrimiento
+
+- [The Pragmatic Programmer - 08 Antes del proyecto](../books/the-pragmatic-programmer/chapters/ES/08-antes-del-proyecto.es.md) | [EN](../books/the-pragmatic-programmer/chapters/EN/08-before-the-project.md)
+- [The Pragmatic Programmer - 02 Un enfoque pragmático](../books/the-pragmatic-programmer/chapters/ES/02-un-enfoque-pragmatico.es.md) | [EN](../books/the-pragmatic-programmer/chapters/EN/02-a-pragmatic-approach.md)
 
 ### Pruebas y feedback
 
 - [The Pragmatic Programmer - 04 Paranoia pragmática](../books/the-pragmatic-programmer/chapters/ES/04-paranoia-pragmatica.es.md) | [EN](../books/the-pragmatic-programmer/chapters/EN/04-pragmatic-paranoia.md)
 - [The Pragmatic Programmer - 07 Mientras escribe código](../books/the-pragmatic-programmer/chapters/ES/07-mientras-escribe-codigo.es.md) | [EN](../books/the-pragmatic-programmer/chapters/EN/07-while-you-are-coding.md)
+- [The Pragmatic Programmer - 08 Antes del proyecto](../books/the-pragmatic-programmer/chapters/ES/08-antes-del-proyecto.es.md) | [EN](../books/the-pragmatic-programmer/chapters/EN/08-before-the-project.md)
 - [Software Engineering at Google - 09 Revisión de código](../books/software-engineering-at-google/chapters/ES/09-revision-de-codigo.es.md) | [EN](../books/software-engineering-at-google/chapters/EN/09-code-review.md)
 
 ### Concurrencia y asincronía
@@ -47,6 +54,7 @@ Este mapa te permite descubrir notas por tema, no solo por libro. Cada concepto 
 - [Software Engineering at Google - 05 Liderazgo de equipo](../books/software-engineering-at-google/chapters/ES/05-team-leadership.es.md) | [EN](../books/software-engineering-at-google/chapters/EN/05-team-leadership.md)
 - [Software Engineering at Google - 09 Revisión de código](../books/software-engineering-at-google/chapters/ES/09-revision-de-codigo.es.md) | [EN](../books/software-engineering-at-google/chapters/EN/09-code-review.md)
 - [The Pragmatic Programmer - 01 Una filosofía pragmática](../books/the-pragmatic-programmer/chapters/ES/01-una-filosofia-pragmatica.es.md) | [EN](../books/the-pragmatic-programmer/chapters/EN/01-a-pragmatic-philosophy.md)
+- [The Pragmatic Programmer - 08 Antes del proyecto](../books/the-pragmatic-programmer/chapters/ES/08-antes-del-proyecto.es.md) | [EN](../books/the-pragmatic-programmer/chapters/EN/08-before-the-project.md)
 
 ## Rutas sugeridas
 
