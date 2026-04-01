@@ -43,7 +43,7 @@ Choose how you want to read this repository:
 
 > This section shows **only the latest 3 updates** in the repository. It must be refreshed whenever content is added or updated in any book.
 
-- New chapter: [The Pragmatic Programmer - 10 Postface](books/the-pragmatic-programmer/chapters/EN/10-postface.md)
+- Status updated: [The Pragmatic Programmer is now completed](books/the-pragmatic-programmer/README.md)
 - Concepts index updated with postface: [Concepts index](docs/concepts-index.md)
 - Reading paths updated with postface: [Reading paths](docs/reading-paths.md)
 
@@ -78,7 +78,7 @@ This repository exists to turn reading notes into a practical engineering handbo
 | Book | Status | Chapters | English | Spanish |
 |---|---|---:|---|---|
 | `software-engineering-at-google` | reading | 5 | [Open](books/software-engineering-at-google/README.md) | [Abrir](books/software-engineering-at-google/README.es.md) |
-| `the-pragmatic-programmer` | reading | 10 | [Open](books/the-pragmatic-programmer/README.md) | [Abrir](books/the-pragmatic-programmer/README.es.md) |
+| `the-pragmatic-programmer` | completed | 10 | [Open](books/the-pragmatic-programmer/README.md) | [Abrir](books/the-pragmatic-programmer/README.es.md) |
 
 <details>
 <summary><strong>Global quick map (expand/collapse)</strong></summary>

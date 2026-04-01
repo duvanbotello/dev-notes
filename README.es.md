@@ -43,7 +43,7 @@ Elige cómo quieres leer este repositorio:
 
 > Esta sección muestra **solo las 3 últimas novedades** del repositorio. Debe actualizarse cada vez que se agregue o modifique contenido en cualquier libro.
 
-- Nuevo capítulo: [The Pragmatic Programmer - 10 Postfacio](books/the-pragmatic-programmer/chapters/ES/10-postfacio.es.md)
+- Estado actualizado: [The Pragmatic Programmer ahora está completado](books/the-pragmatic-programmer/README.es.md)
 - Índice de conceptos actualizado con postfacio: [Concepts index (ES)](docs/concepts-index.es.md)
 - Rutas de lectura actualizadas con postfacio: [Reading paths (ES)](docs/reading-paths.es.md)
 
@@ -78,7 +78,7 @@ Este repositorio existe para convertir notas de lectura en un manual práctico d
 | Libro | Estado | Capítulos | Español | English |
 |---|---|---:|---|---|
 | `software-engineering-at-google` | leyendo | 5 | [Abrir](books/software-engineering-at-google/README.es.md) | [Open](books/software-engineering-at-google/README.md) |
-| `the-pragmatic-programmer` | leyendo | 10 | [Abrir](books/the-pragmatic-programmer/README.es.md) | [Open](books/the-pragmatic-programmer/README.md) |
+| `the-pragmatic-programmer` | completado | 10 | [Abrir](books/the-pragmatic-programmer/README.es.md) | [Open](books/the-pragmatic-programmer/README.md) |
 
 <details>
 <summary><strong>Mapa rápido global (abrir/cerrar)</strong></summary>

@@ -3,7 +3,7 @@
 [![Idioma](https://img.shields.io/badge/Idioma-Español-1f6feb)](README.es.md)
 [![English](https://img.shields.io/badge/EN-Disponible-0e8a16)](README.md)
 [![Capítulos](https://img.shields.io/badge/Capítulos-10-f9a825)](#capítulos)
-[![Estado](https://img.shields.io/badge/Estado-Leyendo-6f42c1)](#metadatos)
+[![Estado](https://img.shields.io/badge/Estado-Completado-2ea043)](#metadatos)
 
 ## Portal de idioma
 
@@ -16,7 +16,7 @@ Elige cómo quieres leer este libro:
 
 - Título: The Pragmatic Programmer (El Programador Pragmático)
 - Autor: No especificado en estas notas
-- Estado: leyendo
+- Estado: completado
 - Idioma: Español
 
 ## Navegación
