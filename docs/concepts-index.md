@@ -49,6 +49,12 @@ This map helps you discover notes by theme, not only by book. Each concept group
 - [The Pragmatic Programmer - 07 While you are coding](../books/the-pragmatic-programmer/chapters/EN/07-while-you-are-coding.md) | [ES](../books/the-pragmatic-programmer/chapters/ES/07-mientras-escribe-codigo.es.md)
 - [Software Engineering at Google - 01 What is software engineering?](../books/software-engineering-at-google/chapters/EN/01-introduction.md) | [ES](../books/software-engineering-at-google/chapters/ES/01-introduction.es.md)
 
+### Ethics and professional responsibility
+
+- [The Pragmatic Programmer - 01 A pragmatic philosophy](../books/the-pragmatic-programmer/chapters/EN/01-a-pragmatic-philosophy.md) | [ES](../books/the-pragmatic-programmer/chapters/ES/01-una-filosofia-pragmatica.es.md)
+- [The Pragmatic Programmer - 10 Postface](../books/the-pragmatic-programmer/chapters/EN/10-postface.md) | [ES](../books/the-pragmatic-programmer/chapters/ES/10-postfacio.es.md)
+- [Software Engineering at Google - 01 What is software engineering?](../books/software-engineering-at-google/chapters/EN/01-introduction.md) | [ES](../books/software-engineering-at-google/chapters/ES/01-introduction.es.md)
+
 ### Collaboration, review, and technical leadership
 
 - [Software Engineering at Google - 02 Working well in teams](../books/software-engineering-at-google/chapters/EN/02-working-well-in-teams.md) | [ES](../books/software-engineering-at-google/chapters/ES/02-como-trabajar-bien-en-equipo.es.md)

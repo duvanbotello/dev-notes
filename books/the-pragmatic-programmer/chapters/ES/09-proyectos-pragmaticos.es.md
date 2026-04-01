@@ -91,7 +91,7 @@ Este capítulo me aterriza una idea muy directa: la calidad no sale de un héroe
 **Navegación**
 
 - Capítulo anterior: [08 - Antes del proyecto](08-antes-del-proyecto.es.md)
-- Capítulo siguiente: Pendiente
+- Capítulo siguiente: [10 - Postfacio](10-postfacio.es.md)
 - Notas relacionadas: [README del libro](../../README.es.md), [Versión en inglés](../EN/09-pragmatic-projects.md)
 
 ## Aviso legal

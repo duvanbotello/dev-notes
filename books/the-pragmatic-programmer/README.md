@@ -2,7 +2,7 @@
 
 [![Language](https://img.shields.io/badge/Language-English-1f6feb)](README.md)
 [![Español](https://img.shields.io/badge/ES-Disponible-0e8a16)](README.es.md)
-[![Chapters](https://img.shields.io/badge/Chapters-9-f9a825)](#chapters)
+[![Chapters](https://img.shields.io/badge/Chapters-10-f9a825)](#chapters)
 [![Status](https://img.shields.io/badge/Status-Reading-6f42c1)](#metadata)
 
 ## Language portal
@@ -48,6 +48,7 @@ Choose how you want to read this book:
 | 07 | While you are coding | [Open](chapters/EN/07-while-you-are-coding.md) | [Abrir](chapters/ES/07-mientras-escribe-codigo.es.md) |
 | 08 | Before the project | [Open](chapters/EN/08-before-the-project.md) | [Abrir](chapters/ES/08-antes-del-proyecto.es.md) |
 | 09 | Pragmatic projects | [Open](chapters/EN/09-pragmatic-projects.md) | [Abrir](chapters/ES/09-proyectos-pragmaticos.es.md) |
+| 10 | Postface | [Open](chapters/EN/10-postface.md) | [Abrir](chapters/ES/10-postfacio.es.md) |
 
 </details>
 
@@ -74,6 +75,7 @@ These notes ground a simple but demanding idea: writing software well is not onl
 - [07 - While you are coding](chapters/EN/07-while-you-are-coding.md) | [ES](chapters/ES/07-mientras-escribe-codigo.es.md)
 - [08 - Before the project](chapters/EN/08-before-the-project.md) | [ES](chapters/ES/08-antes-del-proyecto.es.md)
 - [09 - Pragmatic projects](chapters/EN/09-pragmatic-projects.md) | [ES](chapters/ES/09-proyectos-pragmaticos.es.md)
+- [10 - Postface](chapters/EN/10-postface.md) | [ES](chapters/ES/10-postfacio.es.md)
 
 ## Explore by concepts and paths
 
@@ -148,6 +150,14 @@ These notes ground a simple but demanding idea: writing software well is not onl
 - Code is not done until all tests run, at minimum unit, integration, validation/verification, and performance tests.
 - Every manually found bug must become an automated test to prevent regressions and preserve time for building new value.
 
+### Chapter 10 - Postface
+
+- Building software means helping build the future; that privilege carries power and proportional responsibility.
+- Professional responsibility is personal and non-transferable: our technical decisions have real-world consequences.
+- Before shipping code, two mandatory questions help calibrate integrity: "Have I protected the user?" and "Would I use this myself?"
+- Nobody is perfect, but sincere diligence to anticipate consequences and protect users is still required.
+- If we cannot honestly claim that preventive effort, we share responsibility when things fail.
+
 ## Favorite ideas
 
 - Focus on solutions, not excuses.
@@ -219,6 +229,14 @@ These notes ground a simple but demanding idea: writing software well is not onl
 - Define a delivery policy where "done" requires a minimum suite: unit, integration, validation/verification, and performance tests.
 - Turn every manually discovered defect into an automated regression test without exceptions.
 - Prioritize practices and architecture that fit business context instead of imitating operating models built for different scale.
+
+### Chapter 10 - Postface
+
+- Add a minimal ethical checkpoint to each delivery together with technical review.
+- Require explicit user-protection evidence in high-impact PRs.
+- Evaluate foreseeable security, privacy, and misuse risks before deployment.
+- Document sensitive decisions with context, trade-offs, and owners to keep accountability traceable.
+- Treat each incident as a chance to strengthen preventive diligence and professional ownership.
 
 ## Related books
 

@@ -43,9 +43,9 @@ Choose how you want to read this repository:
 
 > This section shows **only the latest 3 updates** in the repository. It must be refreshed whenever content is added or updated in any book.
 
-- New chapter: [The Pragmatic Programmer - 09 Pragmatic projects](books/the-pragmatic-programmer/chapters/EN/09-pragmatic-projects.md)
-- Concepts index updated with chapter 09: [Concepts index](docs/concepts-index.md)
-- Reading paths updated with chapter 09: [Reading paths](docs/reading-paths.md)
+- New chapter: [The Pragmatic Programmer - 10 Postface](books/the-pragmatic-programmer/chapters/EN/10-postface.md)
+- Concepts index updated with postface: [Concepts index](docs/concepts-index.md)
+- Reading paths updated with postface: [Reading paths](docs/reading-paths.md)
 
 ## Why this repository exists
 
@@ -78,7 +78,7 @@ This repository exists to turn reading notes into a practical engineering handbo
 | Book | Status | Chapters | English | Spanish |
 |---|---|---:|---|---|
 | `software-engineering-at-google` | reading | 5 | [Open](books/software-engineering-at-google/README.md) | [Abrir](books/software-engineering-at-google/README.es.md) |
-| `the-pragmatic-programmer` | reading | 9 | [Open](books/the-pragmatic-programmer/README.md) | [Abrir](books/the-pragmatic-programmer/README.es.md) |
+| `the-pragmatic-programmer` | reading | 10 | [Open](books/the-pragmatic-programmer/README.md) | [Abrir](books/the-pragmatic-programmer/README.es.md) |
 
 <details>
 <summary><strong>Global quick map (expand/collapse)</strong></summary>
@@ -99,6 +99,7 @@ This repository exists to turn reading notes into a practical engineering handbo
 | The Pragmatic Programmer | 07 - While you are coding | [Open](books/the-pragmatic-programmer/chapters/EN/07-while-you-are-coding.md) | [Abrir](books/the-pragmatic-programmer/chapters/ES/07-mientras-escribe-codigo.es.md) |
 | The Pragmatic Programmer | 08 - Before the project | [Open](books/the-pragmatic-programmer/chapters/EN/08-before-the-project.md) | [Abrir](books/the-pragmatic-programmer/chapters/ES/08-antes-del-proyecto.es.md) |
 | The Pragmatic Programmer | 09 - Pragmatic projects | [Open](books/the-pragmatic-programmer/chapters/EN/09-pragmatic-projects.md) | [Abrir](books/the-pragmatic-programmer/chapters/ES/09-proyectos-pragmaticos.es.md) |
+| The Pragmatic Programmer | 10 - Postface | [Open](books/the-pragmatic-programmer/chapters/EN/10-postface.md) | [Abrir](books/the-pragmatic-programmer/chapters/ES/10-postfacio.es.md) |
 
 </details>
 
@@ -149,7 +150,8 @@ Each chapter includes top and bottom navigation, language switching, and cross-l
 │           │   ├── 06-concurrency.md
 │           │   ├── 07-while-you-are-coding.md
 │           │   ├── 08-before-the-project.md
-│           │   └── 09-pragmatic-projects.md
+│           │   ├── 09-pragmatic-projects.md
+│           │   └── 10-postface.md
 │           └── ES/
 │               ├── 00-prefacio.es.md
 │               ├── 01-una-filosofia-pragmatica.es.md
@@ -159,7 +161,8 @@ Each chapter includes top and bottom navigation, language switching, and cross-l
 │               ├── 06-concurrencia.es.md
 │               ├── 07-mientras-escribe-codigo.es.md
 │               ├── 08-antes-del-proyecto.es.md
-│               └── 09-proyectos-pragmaticos.es.md
+│               ├── 09-proyectos-pragmaticos.es.md
+│               └── 10-postfacio.es.md
 ├── docs/
 │   ├── concepts-index.es.md
 │   ├── concepts-index.md

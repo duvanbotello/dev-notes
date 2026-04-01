@@ -2,7 +2,7 @@
 
 [![Idioma](https://img.shields.io/badge/Idioma-Español-1f6feb)](README.es.md)
 [![English](https://img.shields.io/badge/EN-Disponible-0e8a16)](README.md)
-[![Capítulos](https://img.shields.io/badge/Capítulos-9-f9a825)](#capítulos)
+[![Capítulos](https://img.shields.io/badge/Capítulos-10-f9a825)](#capítulos)
 [![Estado](https://img.shields.io/badge/Estado-Leyendo-6f42c1)](#metadatos)
 
 ## Portal de idioma
@@ -48,6 +48,7 @@ Elige cómo quieres leer este libro:
 | 07 | Mientras escribe código | [Abrir](chapters/ES/07-mientras-escribe-codigo.es.md) | [Open](chapters/EN/07-while-you-are-coding.md) |
 | 08 | Antes del proyecto | [Abrir](chapters/ES/08-antes-del-proyecto.es.md) | [Open](chapters/EN/08-before-the-project.md) |
 | 09 | Proyectos pragmáticos | [Abrir](chapters/ES/09-proyectos-pragmaticos.es.md) | [Open](chapters/EN/09-pragmatic-projects.md) |
+| 10 | Postfacio | [Abrir](chapters/ES/10-postfacio.es.md) | [Open](chapters/EN/10-postface.md) |
 
 </details>
 
@@ -74,6 +75,7 @@ Estas notas aterrizan una idea simple pero exigente: programar bien no es solo e
 - [07 - Mientras escribe código](chapters/ES/07-mientras-escribe-codigo.es.md) | [EN](chapters/EN/07-while-you-are-coding.md)
 - [08 - Antes del proyecto](chapters/ES/08-antes-del-proyecto.es.md) | [EN](chapters/EN/08-before-the-project.md)
 - [09 - Proyectos pragmáticos](chapters/ES/09-proyectos-pragmaticos.es.md) | [EN](chapters/EN/09-pragmatic-projects.md)
+- [10 - Postfacio](chapters/ES/10-postfacio.es.md) | [EN](chapters/EN/10-postface.md)
 
 ## Explorar por conceptos y rutas
 
@@ -148,6 +150,14 @@ Estas notas aterrizan una idea simple pero exigente: programar bien no es solo e
 - El código no está terminado hasta ejecutar todas las pruebas, como mínimo unitarias, de integración, de validación/verificación y de rendimiento.
 - Todo bug hallado manualmente debe convertirse en prueba automatizada para evitar regresiones y liberar tiempo para crear valor nuevo.
 
+### Capítulo 10 - Postfacio
+
+- Construir software es participar en la construcción del futuro; ese privilegio implica poder y una responsabilidad proporcional.
+- La responsabilidad profesional es personal e intransferible: nuestras decisiones técnicas tienen consecuencias reales.
+- Antes de entregar código, conviene pasar por dos preguntas obligatorias: "¿He protegido al usuario?" y "¿Usaría yo esto?".
+- Nadie es perfecto, pero sí es exigible actuar con diligencia sincera para anticipar consecuencias y proteger al usuario.
+- Si no podemos afirmar honestamente que hicimos ese esfuerzo preventivo, compartimos responsabilidad cuando algo sale mal.
+
 ## Ideas favoritas
 
 - Enfocarse en soluciones, no en excusas.
@@ -219,6 +229,14 @@ Estas notas aterrizan una idea simple pero exigente: programar bien no es solo e
 - Definir una política de entrega en la que el "terminado" exija suite mínima: unitarias, integración, validación/verificación y rendimiento.
 - Convertir sin excepciones cada fallo detectado por pruebas manuales en una prueba automatizada de regresión.
 - Priorizar prácticas y arquitectura acordes al contexto del negocio en lugar de imitar modelos de operación de empresas con otra escala.
+
+### Capítulo 10 - Postfacio
+
+- Incorporar una verificación ética mínima en cada entrega junto con la revisión técnica.
+- Incluir en PRs de alto impacto evidencia explícita de protección al usuario.
+- Evaluar riesgos previsibles de seguridad, privacidad y abuso antes de desplegar.
+- Documentar decisiones sensibles con contexto, trade-offs y responsables para mantener trazabilidad.
+- Tratar cada incidente como oportunidad para reforzar diligencia preventiva y responsabilidad profesional.
 
 ## Libros relacionados
 

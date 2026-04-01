@@ -91,7 +91,7 @@ This chapter lands one direct idea for me: quality does not come from individual
 **Navigation**
 
 - Previous chapter: [08 - Before the project](08-before-the-project.md)
-- Next chapter: Planned
+- Next chapter: [10 - Postface](10-postface.md)
 - Related notes: [Book README](../../README.md), [Spanish version](../ES/09-proyectos-pragmaticos.es.md)
 
 ## Disclaimer

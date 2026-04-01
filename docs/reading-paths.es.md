@@ -49,8 +49,9 @@ Cada ruta agrupa capítulos de distintos libros según un objetivo práctico. Pu
   - [The Pragmatic Programmer - 06 Concurrencia](../books/the-pragmatic-programmer/chapters/ES/06-concurrencia.es.md)
   - [The Pragmatic Programmer - 07 Mientras escribe código](../books/the-pragmatic-programmer/chapters/ES/07-mientras-escribe-codigo.es.md)
   - [The Pragmatic Programmer - 09 Proyectos pragmáticos](../books/the-pragmatic-programmer/chapters/ES/09-proyectos-pragmaticos.es.md)
+  - [The Pragmatic Programmer - 10 Postfacio](../books/the-pragmatic-programmer/chapters/ES/10-postfacio.es.md)
   - [Software Engineering at Google - 01 ¿Qué es la ingeniería de software?](../books/software-engineering-at-google/chapters/ES/01-introduction.es.md)
-- **Resultado esperado:** entregas con menos defectos en producción y mayor capacidad de respuesta ante incidentes.
+- **Resultado esperado:** entregas con menos defectos en producción, mayor capacidad de respuesta ante incidentes y criterios éticos más claros para proteger al usuario.
 
 ## Descubrir por conceptos
 

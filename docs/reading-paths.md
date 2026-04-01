@@ -49,8 +49,9 @@ Each path groups chapters from different books around one practical goal. You ca
   - [The Pragmatic Programmer - 06 Concurrency](../books/the-pragmatic-programmer/chapters/EN/06-concurrency.md)
   - [The Pragmatic Programmer - 07 While you are coding](../books/the-pragmatic-programmer/chapters/EN/07-while-you-are-coding.md)
   - [The Pragmatic Programmer - 09 Pragmatic projects](../books/the-pragmatic-programmer/chapters/EN/09-pragmatic-projects.md)
+  - [The Pragmatic Programmer - 10 Postface](../books/the-pragmatic-programmer/chapters/EN/10-postface.md)
   - [Software Engineering at Google - 01 What is software engineering?](../books/software-engineering-at-google/chapters/EN/01-introduction.md)
-- **Expected outcome:** fewer production defects and stronger response capacity under failure.
+- **Expected outcome:** fewer production defects, stronger response capacity under failure, and clearer ethical criteria to protect users.
 
 ## Discover by concept
 
