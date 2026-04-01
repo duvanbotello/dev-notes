@@ -80,7 +80,7 @@ The strongest idea is that requirements work is not request capture, but facilit
 **Navigation**
 
 - Previous chapter: [07 - While you are coding](07-while-you-are-coding.md)
-- Next chapter: Planned
+- Next chapter: [09 - Pragmatic projects](09-pragmatic-projects.md)
 - Related notes: [Book README](../../README.md), [Spanish version](../ES/08-antes-del-proyecto.es.md)
 
 ## Disclaimer

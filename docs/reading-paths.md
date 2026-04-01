@@ -37,6 +37,7 @@ Each path groups chapters from different books around one practical goal. You ca
   - [Software Engineering at Google - 02 Working well in teams](../books/software-engineering-at-google/chapters/EN/02-working-well-in-teams.md)
   - [Software Engineering at Google - 03 Sharing knowledge](../books/software-engineering-at-google/chapters/EN/03-sharing-knowledge.md)
   - [Software Engineering at Google - 05 Team leadership](../books/software-engineering-at-google/chapters/EN/05-team-leadership.md)
+  - [The Pragmatic Programmer - 09 Pragmatic projects](../books/the-pragmatic-programmer/chapters/EN/09-pragmatic-projects.md)
   - [Software Engineering at Google - 09 Code review](../books/software-engineering-at-google/chapters/EN/09-code-review.md)
 - **Expected outcome:** teams with better alignment, healthier feedback loops, and clearer decisions.
 
@@ -47,6 +48,7 @@ Each path groups chapters from different books around one practical goal. You ca
   - [The Pragmatic Programmer - 04 Pragmatic paranoia](../books/the-pragmatic-programmer/chapters/EN/04-pragmatic-paranoia.md)
   - [The Pragmatic Programmer - 06 Concurrency](../books/the-pragmatic-programmer/chapters/EN/06-concurrency.md)
   - [The Pragmatic Programmer - 07 While you are coding](../books/the-pragmatic-programmer/chapters/EN/07-while-you-are-coding.md)
+  - [The Pragmatic Programmer - 09 Pragmatic projects](../books/the-pragmatic-programmer/chapters/EN/09-pragmatic-projects.md)
   - [Software Engineering at Google - 01 What is software engineering?](../books/software-engineering-at-google/chapters/EN/01-introduction.md)
 - **Expected outcome:** fewer production defects and stronger response capacity under failure.
 

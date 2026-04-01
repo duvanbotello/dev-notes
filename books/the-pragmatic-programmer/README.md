@@ -2,7 +2,7 @@
 
 [![Language](https://img.shields.io/badge/Language-English-1f6feb)](README.md)
 [![Español](https://img.shields.io/badge/ES-Disponible-0e8a16)](README.es.md)
-[![Chapters](https://img.shields.io/badge/Chapters-8-f9a825)](#chapters)
+[![Chapters](https://img.shields.io/badge/Chapters-9-f9a825)](#chapters)
 [![Status](https://img.shields.io/badge/Status-Reading-6f42c1)](#metadata)
 
 ## Language portal
@@ -47,6 +47,7 @@ Choose how you want to read this book:
 | 06 | Concurrency | [Open](chapters/EN/06-concurrency.md) | [Abrir](chapters/ES/06-concurrencia.es.md) |
 | 07 | While you are coding | [Open](chapters/EN/07-while-you-are-coding.md) | [Abrir](chapters/ES/07-mientras-escribe-codigo.es.md) |
 | 08 | Before the project | [Open](chapters/EN/08-before-the-project.md) | [Abrir](chapters/ES/08-antes-del-proyecto.es.md) |
+| 09 | Pragmatic projects | [Open](chapters/EN/09-pragmatic-projects.md) | [Abrir](chapters/ES/09-proyectos-pragmaticos.es.md) |
 
 </details>
 
@@ -72,6 +73,7 @@ These notes ground a simple but demanding idea: writing software well is not onl
 - [06 - Concurrency](chapters/EN/06-concurrency.md) | [ES](chapters/ES/06-concurrencia.es.md)
 - [07 - While you are coding](chapters/EN/07-while-you-are-coding.md) | [ES](chapters/ES/07-mientras-escribe-codigo.es.md)
 - [08 - Before the project](chapters/EN/08-before-the-project.md) | [ES](chapters/ES/08-antes-del-proyecto.es.md)
+- [09 - Pragmatic projects](chapters/EN/09-pragmatic-projects.md) | [ES](chapters/ES/09-proyectos-pragmaticos.es.md)
 
 ## Explore by concepts and paths
 
@@ -138,6 +140,14 @@ These notes ground a simple but demanding idea: writing software well is not onl
 - Requirements describe needs; they should not prematurely become design, architecture, or UI.
 - Real agility means responding to change, supported by design that makes adjustment easier.
 
+### Chapter 9 - Pragmatic projects
+
+- A pragmatic team is small, accountable, and coherent: it avoids "broken windows," shares information with low friction, and automates repeatable work.
+- Continuous learning needs explicit time to fix process leaks, evaluate technologies through prototypes, and adapt practices to real context.
+- There is no single best methodology: take the best parts of each approach and avoid copying companies operating at radically different scale.
+- Code is not done until all tests run, at minimum unit, integration, validation/verification, and performance tests.
+- Every manually found bug must become an automated test to prevent regressions and preserve time for building new value.
+
 ## Favorite ideas
 
 - Focus on solutions, not excuses.
@@ -201,6 +211,14 @@ These notes ground a simple but demanding idea: writing software well is not onl
 - Keep a living domain glossary to align language across business and engineering.
 - Separate changing policies from core logic to adapt without high-risk deployments.
 - Use pair or group work to debate solutions and improve design resilience.
+
+### Chapter 9 - Pragmatic projects
+
+- Keep teams under 10-12 people to strengthen coordination, shared context, and real quality ownership.
+- Establish a continuous-improvement routine with reserved time to evaluate candidate tools, frameworks, or libraries through prototypes.
+- Define a delivery policy where "done" requires a minimum suite: unit, integration, validation/verification, and performance tests.
+- Turn every manually discovered defect into an automated regression test without exceptions.
+- Prioritize practices and architecture that fit business context instead of imitating operating models built for different scale.
 
 ## Related books
 

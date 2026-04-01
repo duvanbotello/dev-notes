@@ -80,7 +80,7 @@ La idea más potente es que levantar requisitos no es capturar pedidos, sino fac
 **Navegación**
 
 - Capítulo anterior: [07 - Mientras escribe código](07-mientras-escribe-codigo.es.md)
-- Capítulo siguiente: Pendiente
+- Capítulo siguiente: [09 - Proyectos pragmáticos](09-proyectos-pragmaticos.es.md)
 - Notas relacionadas: [README del libro](../../README.es.md), [Versión en inglés](../EN/08-before-the-project.md)
 
 ## Aviso legal

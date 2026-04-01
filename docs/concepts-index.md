@@ -15,6 +15,7 @@ This map helps you discover notes by theme, not only by book. Each concept group
 - [The Pragmatic Programmer - 01 A pragmatic philosophy](../books/the-pragmatic-programmer/chapters/EN/01-a-pragmatic-philosophy.md) | [ES](../books/the-pragmatic-programmer/chapters/ES/01-una-filosofia-pragmatica.es.md)
 - [The Pragmatic Programmer - 04 Pragmatic paranoia](../books/the-pragmatic-programmer/chapters/EN/04-pragmatic-paranoia.md) | [ES](../books/the-pragmatic-programmer/chapters/ES/04-paranoia-pragmatica.es.md)
 - [The Pragmatic Programmer - 07 While you are coding](../books/the-pragmatic-programmer/chapters/EN/07-while-you-are-coding.md) | [ES](../books/the-pragmatic-programmer/chapters/ES/07-mientras-escribe-codigo.es.md)
+- [The Pragmatic Programmer - 09 Pragmatic projects](../books/the-pragmatic-programmer/chapters/EN/09-pragmatic-projects.md) | [ES](../books/the-pragmatic-programmer/chapters/ES/09-proyectos-pragmaticos.es.md)
 - [Software Engineering at Google - 01 What is software engineering?](../books/software-engineering-at-google/chapters/EN/01-introduction.md) | [ES](../books/software-engineering-at-google/chapters/ES/01-introduction.es.md)
 - [Software Engineering at Google - 09 Code review](../books/software-engineering-at-google/chapters/EN/09-code-review.md) | [ES](../books/software-engineering-at-google/chapters/ES/09-revision-de-codigo.es.md)
 
@@ -35,6 +36,7 @@ This map helps you discover notes by theme, not only by book. Each concept group
 - [The Pragmatic Programmer - 04 Pragmatic paranoia](../books/the-pragmatic-programmer/chapters/EN/04-pragmatic-paranoia.md) | [ES](../books/the-pragmatic-programmer/chapters/ES/04-paranoia-pragmatica.es.md)
 - [The Pragmatic Programmer - 07 While you are coding](../books/the-pragmatic-programmer/chapters/EN/07-while-you-are-coding.md) | [ES](../books/the-pragmatic-programmer/chapters/ES/07-mientras-escribe-codigo.es.md)
 - [The Pragmatic Programmer - 08 Before the project](../books/the-pragmatic-programmer/chapters/EN/08-before-the-project.md) | [ES](../books/the-pragmatic-programmer/chapters/ES/08-antes-del-proyecto.es.md)
+- [The Pragmatic Programmer - 09 Pragmatic projects](../books/the-pragmatic-programmer/chapters/EN/09-pragmatic-projects.md) | [ES](../books/the-pragmatic-programmer/chapters/ES/09-proyectos-pragmaticos.es.md)
 - [Software Engineering at Google - 09 Code review](../books/software-engineering-at-google/chapters/EN/09-code-review.md) | [ES](../books/software-engineering-at-google/chapters/ES/09-revision-de-codigo.es.md)
 
 ### Concurrency and asynchrony
@@ -55,6 +57,7 @@ This map helps you discover notes by theme, not only by book. Each concept group
 - [Software Engineering at Google - 09 Code review](../books/software-engineering-at-google/chapters/EN/09-code-review.md) | [ES](../books/software-engineering-at-google/chapters/ES/09-revision-de-codigo.es.md)
 - [The Pragmatic Programmer - 01 A pragmatic philosophy](../books/the-pragmatic-programmer/chapters/EN/01-a-pragmatic-philosophy.md) | [ES](../books/the-pragmatic-programmer/chapters/ES/01-una-filosofia-pragmatica.es.md)
 - [The Pragmatic Programmer - 08 Before the project](../books/the-pragmatic-programmer/chapters/EN/08-before-the-project.md) | [ES](../books/the-pragmatic-programmer/chapters/ES/08-antes-del-proyecto.es.md)
+- [The Pragmatic Programmer - 09 Pragmatic projects](../books/the-pragmatic-programmer/chapters/EN/09-pragmatic-projects.md) | [ES](../books/the-pragmatic-programmer/chapters/ES/09-proyectos-pragmaticos.es.md)
 
 ## Suggested paths
 

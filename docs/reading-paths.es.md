@@ -37,6 +37,7 @@ Cada ruta agrupa capítulos de distintos libros según un objetivo práctico. Pu
   - [Software Engineering at Google - 02 Cómo trabajar bien en equipo](../books/software-engineering-at-google/chapters/ES/02-como-trabajar-bien-en-equipo.es.md)
   - [Software Engineering at Google - 03 Compartir conocimientos](../books/software-engineering-at-google/chapters/ES/03-compartir-conocimientos.es.md)
   - [Software Engineering at Google - 05 Liderazgo de equipo](../books/software-engineering-at-google/chapters/ES/05-team-leadership.es.md)
+  - [The Pragmatic Programmer - 09 Proyectos pragmáticos](../books/the-pragmatic-programmer/chapters/ES/09-proyectos-pragmaticos.es.md)
   - [Software Engineering at Google - 09 Revisión de código](../books/software-engineering-at-google/chapters/ES/09-revision-de-codigo.es.md)
 - **Resultado esperado:** equipos con mejor coordinación, feedback más efectivo y decisiones más transparentes.
 
@@ -47,6 +48,7 @@ Cada ruta agrupa capítulos de distintos libros según un objetivo práctico. Pu
   - [The Pragmatic Programmer - 04 Paranoia pragmática](../books/the-pragmatic-programmer/chapters/ES/04-paranoia-pragmatica.es.md)
   - [The Pragmatic Programmer - 06 Concurrencia](../books/the-pragmatic-programmer/chapters/ES/06-concurrencia.es.md)
   - [The Pragmatic Programmer - 07 Mientras escribe código](../books/the-pragmatic-programmer/chapters/ES/07-mientras-escribe-codigo.es.md)
+  - [The Pragmatic Programmer - 09 Proyectos pragmáticos](../books/the-pragmatic-programmer/chapters/ES/09-proyectos-pragmaticos.es.md)
   - [Software Engineering at Google - 01 ¿Qué es la ingeniería de software?](../books/software-engineering-at-google/chapters/ES/01-introduction.es.md)
 - **Resultado esperado:** entregas con menos defectos en producción y mayor capacidad de respuesta ante incidentes.
 

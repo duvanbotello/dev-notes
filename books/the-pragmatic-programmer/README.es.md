@@ -2,7 +2,7 @@
 
 [![Idioma](https://img.shields.io/badge/Idioma-Español-1f6feb)](README.es.md)
 [![English](https://img.shields.io/badge/EN-Disponible-0e8a16)](README.md)
-[![Capítulos](https://img.shields.io/badge/Capítulos-8-f9a825)](#capítulos)
+[![Capítulos](https://img.shields.io/badge/Capítulos-9-f9a825)](#capítulos)
 [![Estado](https://img.shields.io/badge/Estado-Leyendo-6f42c1)](#metadatos)
 
 ## Portal de idioma
@@ -47,6 +47,7 @@ Elige cómo quieres leer este libro:
 | 06 | Concurrencia | [Abrir](chapters/ES/06-concurrencia.es.md) | [Open](chapters/EN/06-concurrency.md) |
 | 07 | Mientras escribe código | [Abrir](chapters/ES/07-mientras-escribe-codigo.es.md) | [Open](chapters/EN/07-while-you-are-coding.md) |
 | 08 | Antes del proyecto | [Abrir](chapters/ES/08-antes-del-proyecto.es.md) | [Open](chapters/EN/08-before-the-project.md) |
+| 09 | Proyectos pragmáticos | [Abrir](chapters/ES/09-proyectos-pragmaticos.es.md) | [Open](chapters/EN/09-pragmatic-projects.md) |
 
 </details>
 
@@ -72,6 +73,7 @@ Estas notas aterrizan una idea simple pero exigente: programar bien no es solo e
 - [06 - Concurrencia](chapters/ES/06-concurrencia.es.md) | [EN](chapters/EN/06-concurrency.md)
 - [07 - Mientras escribe código](chapters/ES/07-mientras-escribe-codigo.es.md) | [EN](chapters/EN/07-while-you-are-coding.md)
 - [08 - Antes del proyecto](chapters/ES/08-antes-del-proyecto.es.md) | [EN](chapters/EN/08-before-the-project.md)
+- [09 - Proyectos pragmáticos](chapters/ES/09-proyectos-pragmaticos.es.md) | [EN](chapters/EN/09-pragmatic-projects.md)
 
 ## Explorar por conceptos y rutas
 
@@ -138,6 +140,14 @@ Estas notas aterrizan una idea simple pero exigente: programar bien no es solo e
 - Los requisitos describen necesidades; no deben convertirse prematuramente en diseño, arquitectura o UI.
 - La agilidad real consiste en responder al cambio, apoyada por un diseño que facilite ajustes.
 
+### Capítulo 9 - Proyectos pragmáticos
+
+- Un equipo pragmático es pequeño, responsable y coherente: evita "ventanas rotas", comparte información sin fricción y automatiza lo repetible.
+- El aprendizaje continuo requiere tiempo explícito para reparar fugas de proceso, evaluar tecnologías con prototipos y adaptar prácticas al contexto real.
+- No existe una metodología única: conviene tomar lo mejor de cada enfoque y evitar copiar modelos de empresas con escalas muy distintas.
+- El código no está terminado hasta ejecutar todas las pruebas, como mínimo unitarias, de integración, de validación/verificación y de rendimiento.
+- Todo bug hallado manualmente debe convertirse en prueba automatizada para evitar regresiones y liberar tiempo para crear valor nuevo.
+
 ## Ideas favoritas
 
 - Enfocarse en soluciones, no en excusas.
@@ -201,6 +211,14 @@ Estas notas aterrizan una idea simple pero exigente: programar bien no es solo e
 - Mantener un glosario vivo del dominio para alinear lenguaje entre negocio y equipo técnico.
 - Separar políticas cambiantes de la lógica central para adaptarlas sin despliegues de alto riesgo.
 - Incorporar trabajo en pares o en grupo para debatir soluciones y aumentar resiliencia del diseño.
+
+### Capítulo 9 - Proyectos pragmáticos
+
+- Mantener equipos por debajo de 10-12 personas para favorecer coordinación, contexto compartido y responsabilidad real por calidad.
+- Crear una rutina de mejora continua con tiempo reservado para investigar herramientas, frameworks o bibliotecas candidatas mediante prototipos.
+- Definir una política de entrega en la que el "terminado" exija suite mínima: unitarias, integración, validación/verificación y rendimiento.
+- Convertir sin excepciones cada fallo detectado por pruebas manuales en una prueba automatizada de regresión.
+- Priorizar prácticas y arquitectura acordes al contexto del negocio en lugar de imitar modelos de operación de empresas con otra escala.
 
 ## Libros relacionados
 
