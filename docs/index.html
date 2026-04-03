@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Portal Docs | Engineering Book Notes</title>
+  <meta name="description" content="Portal de documentación, rutas y slides para Engineering Book Notes.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;600;700&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/portal.css">
+</head>
+<body>
+  <div class="bg-shape bg-shape-a" aria-hidden="true"></div>
+  <div class="bg-shape bg-shape-b" aria-hidden="true"></div>
+
+  <header class="shell hero reveal">
+    <p class="eyebrow">Engineering Book Notes</p>
+    <h1>Portal de docs</h1>
+    <p class="lead">Un punto de entrada claro para navegar notas, rutas de lectura e slides sin perder contexto.</p>
+    <div class="hero-actions">
+      <a class="btn btn-primary" href="../README.es.md">Índice general (ES)</a>
+      <a class="btn btn-ghost" href="index.en.html">Switch to English</a>
+    </div>
+  </header>
+
+  <main class="shell grid-layout">
+    <section class="card reveal" style="--delay: 0.05s">
+      <h2>Slides</h2>
+      <p>Presentaciones listas para usar en sesiones de estudio y charlas técnicas.</p>
+
+      <article class="subcard">
+        <div>
+          <h3>The Pragmatic Programmer</h3>
+          <p>Ruta actual: capítulos 0, 1, 2 y 4.</p>
+        </div>
+        <div class="row-actions">
+          <a class="chip" href="slides/pragmatic-programmer/index.html">Abrir ES</a>
+          <a class="chip" href="slides/pragmatic-programmer/index.en.html">Open EN</a>
+          <a class="chip chip-muted" href="slides/pragmatic-programmer/README.es.md">Guía</a>
+        </div>
+      </article>
+    </section>
+
+    <section class="card reveal" style="--delay: 0.12s">
+      <h2>Discovery</h2>
+      <p>Encuentra conceptos y sigue rutas recomendadas por objetivo.</p>
+      <div class="link-grid">
+        <a href="concepts-index.es.md">Índice de conceptos (ES)</a>
+        <a href="concepts-index.md">Concepts index (EN)</a>
+        <a href="reading-paths.es.md">Rutas de lectura (ES)</a>
+        <a href="reading-paths.md">Reading paths (EN)</a>
+      </div>
+    </section>
+
+    <section class="card reveal" style="--delay: 0.19s">
+      <h2>Atajos</h2>
+      <p>Accesos rápidos para moverte entre contexto global y libro actual.</p>
+      <div class="link-grid">
+        <a href="../README.es.md">Repositorio (ES)</a>
+        <a href="../README.md">Repository (EN)</a>
+        <a href="../books/the-pragmatic-programmer/README.es.md">Libro Pragmatic (ES)</a>
+        <a href="../books/the-pragmatic-programmer/README.md">Pragmatic book (EN)</a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="shell footer reveal" style="--delay: 0.24s">
+    <p>Tip local: <code>python -m http.server 8000</code> y abre <code>http://localhost:8000/docs/</code>.</p>
+  </footer>
+</body>
+</html>

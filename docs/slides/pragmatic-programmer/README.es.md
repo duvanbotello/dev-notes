@@ -1,4 +1,4 @@
-[← Volver al libro](../../../books/the-pragmatic-programmer/README.es.md) | [↑ Volver al índice](../../../README.es.md) | [🌐 Cambiar idioma](README.md)
+[← Volver al libro](../../../books/the-pragmatic-programmer/README.es.md) | [↑ Volver al índice](../../../README.es.md) | [🧭 Portal docs](../../index.html) | [🌐 Cambiar idioma](README.md)
 
 # Slides - The Pragmatic Programmer (ES)
 

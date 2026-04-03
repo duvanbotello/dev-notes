@@ -80,6 +80,7 @@ Estas notas aterrizan una idea simple pero exigente: programar bien no es solo e
 
 ## Slides de tertulia
 
+- Portal de docs: [docs/index.html](../../docs/index.html) | [EN](../../docs/index.en.html)
 - Presentación estática (capítulos 0, 1, 2 y 4): [slides/pragmatic-programmer/index.html](../../docs/slides/pragmatic-programmer/index.html)
 - Guía de edición: [slides/pragmatic-programmer/README.es.md](../../docs/slides/pragmatic-programmer/README.es.md) | [EN](../../docs/slides/pragmatic-programmer/README.md)
 

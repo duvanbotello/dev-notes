@@ -80,6 +80,7 @@ These notes ground a simple but demanding idea: writing software well is not onl
 
 ## Talk slides
 
+- Docs portal: [docs/index.en.html](../../docs/index.en.html) | [ES](../../docs/index.html)
 - Static presentation (chapters 0, 1, 2, and 4): [slides/pragmatic-programmer/index.html](../../docs/slides/pragmatic-programmer/index.html)
 - Editing guide: [slides/pragmatic-programmer/README.md](../../docs/slides/pragmatic-programmer/README.md) | [ES](../../docs/slides/pragmatic-programmer/README.es.md)
 

@@ -44,7 +44,7 @@ Choose how you want to read this repository:
 
 > This section shows **only the latest 3 updates** in the repository. It must be refreshed whenever content is added or updated in any book.
 
-- New slides: [The Pragmatic Programmer (ch. 0, 1, 2, 4)](docs/slides/pragmatic-programmer/index.html)
+- New docs portal for discovery and slides: [docs/index.en.html](docs/index.en.html)
 - Status updated: [The Pragmatic Programmer is now completed](books/the-pragmatic-programmer/README.md)
 - Concepts index updated with postface: [Concepts index](docs/concepts-index.md)
 
@@ -71,11 +71,13 @@ This repository exists to turn reading notes into a practical engineering handbo
 
 ## Discovery quick start
 
+- Docs portal: [docs/index.en.html](docs/index.en.html) | [ES](docs/index.html)
 - Concepts index: [docs/concepts-index.md](docs/concepts-index.md) | [ES](docs/concepts-index.es.md)
 - Reading paths: [docs/reading-paths.md](docs/reading-paths.md) | [ES](docs/reading-paths.es.md)
 
 ## Presentations
 
+- Slides and discovery portal: [docs/index.en.html](docs/index.en.html) | [ES](docs/index.html)
 - The Pragmatic Programmer (0, 1, 2, 4): [Open slides](docs/slides/pragmatic-programmer/index.html)
 - Slide editing guide: [README.md](docs/slides/pragmatic-programmer/README.md) | [ES](docs/slides/pragmatic-programmer/README.es.md)
 
@@ -170,8 +172,12 @@ Each chapter includes top and bottom navigation, language switching, and cross-l
 │               ├── 09-proyectos-pragmaticos.es.md
 │               └── 10-postfacio.es.md
 ├── docs/
+│   ├── assets/
+│   │   └── portal.css
 │   ├── concepts-index.es.md
 │   ├── concepts-index.md
+│   ├── index.en.html
+│   ├── index.html
 │   ├── reading-paths.es.md
 │   └── reading-paths.md
 │   └── slides/
