@@ -4,12 +4,12 @@ window.PRAGMATIC_SLIDES = [
     subtitle: "Kickoff",
     title: "What I value most from The Pragmatic Programmer",
     narrative:
-      "Today I want to share personal interpretations from this book that stayed with me. This is not a rigid recipe or an absolute truth; it is an invitation to keep what is useful and reflect honestly on where we can improve as a team.",
+      "The goal of this talk is to share personal interpretations from the book that I consider valuable. The idea is to open an honest conversation where we can learn and question how we are doing things today.",
     bullets: [
       "It is not mandatory and it is not the only way: there are many ways to build software.",
       "If one idea from this talk improves a conversation, a practice, or a delivery, it is already worth it."
     ],
-    takeaway: "I am not trying to impose a formula: I want to open reflection, judgment, and conscious improvement.",
+    takeaway: "I seek to open reflection, judgment, and conscious improvement.",
     visualTitle: "What I want to achieve with this conversation",
     visualItems: ["That each person leaves with 1-2 ideas they can apply in context."],
     theme: "vision",
@@ -27,7 +27,7 @@ window.PRAGMATIC_SLIDES = [
       "They also signed and authored the Agile Manifesto, a key reference for modern agile practice.",
       "Their opinion matters because it connects real practice, team principles, and sustainable decisions."
     ],
-    takeaway: "When you know who is speaking, it is easier to keep what truly works and ignore what is only trend.",
+    takeaway: "Reading with judgment helps us grow: we should always take what is useful, question the rest, and adapt it to our reality.",
     visualTitle: "Why they are worth listening to",
     visualItems: [
       "Real software experience",

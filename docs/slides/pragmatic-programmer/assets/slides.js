@@ -1,18 +1,18 @@
 window.PRAGMATIC_SLIDES = [
   {
     chapter: "Apertura",
-    subtitle: "Enganche emocional",
+    subtitle: "Por qué esta charla",
     title: "Lo mas importante que me llevo de The Pragmatic Programmer",
     narrative:
-      "La intencion de hoy es compartir interpretaciones personales de este libro que me dejaron pensando. No es un recetario ni una verdad absoluta: es una invitacion a quedarnos con lo que nos sirva y revisar, con honestidad, donde podemos mejorar como equipo.",
+      "El objetivo de esta tertulia es compartir interpretaciones personales del libro que considero valiosas. La idea es abrir una conversación honesta donde podamos aprender y cuestionarnos sobre cómo estamos haciendo las cosas hoy.",
     bullets: [
       "No es obligatorio ni es 'la mejor forma': hay muchas maneras de desarrollar software.",
       "Si algo de aqui mejora una conversacion, una practica o una entrega, ya valio la pena."
     ],
-    takeaway: "No busco imponer una formula: busco abrir reflexion, criterio y mejora consciente.",
+    takeaway: "Busco abrir reflexión, criterio y mejora consciente.",
     visualTitle: "Lo que me gustaria lograr con esta conversacion",
     visualItems: [
-      "Que cada persona se lleve 1-2 ideas que le retumben y pueda aplicar en su contexto."
+      "Que cada persona se lleve 1-2 ideas que puedan aplicar en su contexto."
     ],
     theme: "vision",
     mode: "hero"
@@ -29,7 +29,7 @@ window.PRAGMATIC_SLIDES = [
       "Tambien participaron como firmantes y autores del Manifiesto Agil, una base clave para metodologias agiles modernas.",
       "Su opinion importa porque conecta practica real, principios de equipo y decisiones de largo plazo."
     ],
-    takeaway: "Cuando entiendes quien te habla, es mas facil quedarte con lo que si sirve y no con lo que solo esta de moda.",
+    takeaway: "Leer con criterio nos hace crecer; siempre debemos tomar lo útil, cuestionar lo demás e intentar adaptarlo a nuestra realidad.",
     visualTitle: "Por que vale la pena escucharlos",
     visualItems: [
       "Experiencia real en software",
