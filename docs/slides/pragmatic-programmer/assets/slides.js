@@ -166,7 +166,8 @@ window.PRAGMATIC_SLIDES = [
     takeaway: "La robustez no aparece sola; se diseña con validacion y disciplina.",
     visualTitle: "Lecciones aprendidas",
     visualItems: ["Dividir trabajo en pasos pequeños mejora aprendizaje, feedback y ajuste continuo."],
-    theme: "paranoia"
+    theme: "paranoia",
+    compact: true
   },
   {
     chapter: "Cierre",

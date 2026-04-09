@@ -70,7 +70,7 @@
 
     deck.innerHTML = "";
     const article = document.createElement("article");
-    article.className = `slide theme-${slide.theme || "vision"} ${slide.mode ? `mode-${slide.mode}` : ""}`;
+    article.className = `slide theme-${slide.theme || "vision"} ${slide.mode ? `mode-${slide.mode}` : ""}${slide.compact ? " is-compact" : ""}`;
 
     const chapter = document.createElement("p");
     chapter.className = "chapter";
@@ -191,15 +191,11 @@
     if (qaGrid) content.appendChild(qaGrid);
     if (String(slide.takeaway || "").trim()) content.append(takeaway);
 
-    const kicker = document.createElement("p");
-    kicker.className = "kicker";
-    kicker.textContent = slide.kicker || `Tertulia pragmatica · ${slide.chapter}`;
-
     if (visual) {
-      article.append(content, visual, kicker);
+      article.append(content, visual);
     } else {
       article.classList.add("no-visual");
-      article.append(content, kicker);
+      article.append(content);
     }
     deck.appendChild(article);
 
@@ -207,7 +203,6 @@
     if (qaGrid) revealables.push(qaGrid);
     if (String(slide.takeaway || "").trim()) revealables.push(takeaway);
     if (visual) revealables.push(visual);
-    revealables.push(kicker);
 
     revealables.forEach((el) => el.classList.add("reveal-item"));
     revealIndex = Math.min(INITIAL_REVEAL, revealables.length);
